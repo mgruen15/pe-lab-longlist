@@ -31,6 +31,7 @@ ENV/
 
 # Data Files (Avoid committing large datasets or enriched results)
 Longlist_Enriched_AI_Screening.csv
+Longlist_Enriched_AI_Screening_Gemini.csv
 Longlist_Data.xlsx
 
 # IDEs

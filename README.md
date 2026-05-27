@@ -25,26 +25,34 @@ This project automates the commercial screening of Private Equity investment tar
 
 2. Install dependencies:
    ```bash
-   pip install pandas openpyxl tqdm openai python-calamine python-dotenv
+   pip install pandas openpyxl tqdm openai python-calamine python-dotenv google-generativeai
    ```
 
 ## Configuration
 
 1. Create a `.env` file in the root directory (already included in `.gitignore`):
    ```bash
-   OPENROUTER_API_KEY='your_api_key_here'
+   OPENROUTER_API_KEY='your_openrouter_key'
+   GOOGLE_API_KEY='your_gemini_key'
    ```
-2. The script will automatically load this key using `python-dotenv`.
+2. The scripts will automatically load these keys using `python-dotenv`.
 
 ## Usage
 
+### OpenRouter Screening (e.g., Perplexity)
 1. Place your input data in the root directory as `Longlist_Data.xlsx`.
-2. Ensure the Excel file contains a sheet named `Ergebnisse`.
-3. Run the screening script:
+2. Run the script:
    ```bash
    python3 screening_script.py
    ```
-4. The enriched data will be saved to `Longlist_Enriched_AI_Screening.csv`.
+
+### Gemini Screening
+1. Place your input data in the root directory as `Longlist_Data.xlsx`.
+2. Run the script:
+   ```bash
+   python3 screening_script_gemini.py
+   ```
+   *Note: This script saves results to `Longlist_Enriched_AI_Screening_Gemini.csv`.*
 
 ## Investment Thesis: AI Forward Deployed Engineering (FDE)
 
