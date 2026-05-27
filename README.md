@@ -25,20 +25,16 @@ This project automates the commercial screening of Private Equity investment tar
 
 2. Install dependencies:
    ```bash
-   pip install pandas openpyxl tqdm openai python-calamine
+   pip install pandas openpyxl tqdm openai python-calamine python-dotenv
    ```
 
 ## Configuration
 
-Set your OpenRouter API key as an environment variable:
-
-```bash
-# macOS / Linux
-export OPENROUTER_API_KEY='your_api_key_here'
-
-# Windows
-set OPENROUTER_API_KEY=your_api_key_here
-```
+1. Create a `.env` file in the root directory (already included in `.gitignore`):
+   ```bash
+   OPENROUTER_API_KEY='your_api_key_here'
+   ```
+2. The script will automatically load this key using `python-dotenv`.
 
 ## Usage
 

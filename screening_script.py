@@ -5,6 +5,10 @@ import pandas as pd
 from tqdm import tqdm
 from openai import OpenAI
 from datetime import datetime
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # --- CONFIGURATION ---
 INPUT_FILE_EXCEL = "Longlist_Data.xlsx"
