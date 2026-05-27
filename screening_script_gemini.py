@@ -17,7 +17,7 @@ OUTPUT_FILE = "Longlist_Enriched_AI_Screening_Gemini.csv"
 PROMPT_TEMPLATE_FILE = "prompt_template.md"
 
 # Gemini Configuration
-MODEL_NAME = "gemini-1.5-flash" # or "gemini-1.5-pro"
+MODEL_NAME = "gemini-3.5-flash" # or "gemini-3.5-pro"
 API_KEY = os.environ.get("GOOGLE_API_KEY")
 
 # Retry logic configuration
