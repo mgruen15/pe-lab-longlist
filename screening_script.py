@@ -18,7 +18,7 @@ OUTPUT_FILE = "Longlist_Enriched_AI_Screening.csv"
 # OpenRouter Configuration
 # Recommended models for online search:
 # "perplexity/sonar-reasoning" or "meta-llama/llama-3.1-sonar-large-128k-online"
-MODEL = "perplexity/sonar-reasoning" 
+MODEL = "openrouter/owl-alpha" 
 API_KEY = os.environ.get("OPENROUTER_API_KEY")
 
 # Retry logic configuration
@@ -135,6 +135,7 @@ Return ONLY a valid JSON object. No other text.
 
 def main():
     try:
+        # 1. Load the original source data
         df = load_data()
     except Exception as e:
         print(f"FATAL: Could not load data. {e}")
@@ -148,19 +149,39 @@ def main():
         print(f"Available columns: {df.columns.tolist()}")
         return
 
-    # Initialize results columns
+    # 2. Initialize results columns
     df['AI_FDE_Match'] = None
     df['Screening_Reasoning'] = ""
 
+    # 3. Load existing progress and merge it into the dataframe to allow for resuming
+    if os.path.exists(OUTPUT_FILE):
+        print(f"Found existing progress in {OUTPUT_FILE}. Merging results...")
+        try:
+            existing_df = pd.read_csv(OUTPUT_FILE)
+            # Create a lookup for already processed companies (Name + NACE)
+            processed = existing_df.dropna(subset=['AI_FDE_Match'])
+            lookup = processed.set_index([COL_NAME, COL_NACE])[['AI_FDE_Match', 'Screening_Reasoning']].to_dict('index')
+            
+            for index, row in df.iterrows():
+                key = (row[COL_NAME], row[COL_NACE])
+                if key in lookup:
+                    df.at[index, 'AI_FDE_Match'] = lookup[key]['AI_FDE_Match']
+                    df.at[index, 'Screening_Reasoning'] = lookup[key]['Screening_Reasoning']
+        except Exception as e:
+            print(f"Warning: Could not merge existing progress: {e}")
+
     client = get_client()
     total_rows = len(df)
-    matches_found = 0
-    errors_count = 0
+    already_done = df['AI_FDE_Match'].notnull().sum()
+    
+    print(f"Starting screening for {total_rows} companies (Already processed: {already_done})...")
 
-    print(f"Starting screening for {total_rows} companies using model: {MODEL}...")
-
-    # Process each company
+    # 4. Process each company
     for index, row in tqdm(df.iterrows(), total=total_rows, desc="Screening Companies"):
+        # SKIP if already done
+        if pd.notnull(df.at[index, 'AI_FDE_Match']):
+            continue
+
         name = row[COL_NAME]
         country = row[COL_COUNTRY]
         nace = row[COL_NACE]
@@ -170,25 +191,22 @@ def main():
         df.at[index, 'AI_FDE_Match'] = result.get('keep_sample')
         df.at[index, 'Screening_Reasoning'] = result.get('reasoning')
 
-        if result.get('keep_sample') is True:
-            matches_found += 1
-        elif result.get('keep_sample') is None:
-            errors_count += 1
+        # SAVE AFTER EVERY SUCCESSFUL CALL
+        # This allows stopping and seeing partial results in real-time
+        df.to_csv(OUTPUT_FILE, index=False)
 
         # Rate limiting / Sleep interval
         time.sleep(SLEEP_INTERVAL)
 
-    # Save results
-    df.to_csv(OUTPUT_FILE, index=False)
+    # 5. Final Summary
+    matches_found = (df['AI_FDE_Match'] == True).sum()
+    total_processed = df['AI_FDE_Match'].notnull().sum()
     
-    # Summary
     print("\n" + "="*30)
     print("SCREENING COMPLETE")
     print("="*30)
-    print(f"Total processed:  {total_rows}")
+    print(f"Total processed:  {total_processed}")
     print(f"Matches found:    {matches_found}")
-    print(f"Total excluded:   {total_rows - matches_found - errors_count}")
-    print(f"Errors/Failed:    {errors_count}")
     print(f"Results saved to: {OUTPUT_FILE}")
     print("="*30)
 
