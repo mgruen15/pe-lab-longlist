@@ -16,7 +16,7 @@ INPUT_FILE_CSV = "Longlist_Data.xlsx - Ergebnisse.csv"
 OUTPUT_FILE = "Longlist_Enriched_AI_Screening_Gemini.csv"
 
 # Gemini Configuration
-MODEL_NAME = "gemini-1.5-flash" # or "gemini-1.5-pro"
+MODEL_NAME = "gemini-3.5-flash" # or "gemini-1.5-pro"
 API_KEY = os.environ.get("GOOGLE_API_KEY")
 
 # Retry logic configuration
