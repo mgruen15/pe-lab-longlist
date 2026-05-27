@@ -14,9 +14,10 @@ load_dotenv()
 INPUT_FILE_EXCEL = "Longlist_Data.xlsx"
 INPUT_FILE_CSV = "Longlist_Data.xlsx - Ergebnisse.csv"
 OUTPUT_FILE = "Longlist_Enriched_AI_Screening_Gemini.csv"
+PROMPT_TEMPLATE_FILE = "prompt_template.md"
 
 # Gemini Configuration
-MODEL_NAME = "gemini-3.5-flash" # or "gemini-1.5-pro"
+MODEL_NAME = "gemini-1.5-flash" # or "gemini-1.5-pro"
 API_KEY = os.environ.get("GOOGLE_API_KEY")
 
 # Retry logic configuration
@@ -34,6 +35,13 @@ def setup_gemini():
         raise ValueError("GOOGLE_API_KEY environment variable not set. Please add it to your .env file.")
     genai.configure(api_key=API_KEY)
     return genai.GenerativeModel(MODEL_NAME)
+
+def load_prompt_template():
+    """Load the prompt template from the external markdown file."""
+    if not os.path.exists(PROMPT_TEMPLATE_FILE):
+        raise FileNotFoundError(f"Prompt template file not found: {PROMPT_TEMPLATE_FILE}")
+    with open(PROMPT_TEMPLATE_FILE, 'r') as f:
+        return f.read()
 
 def load_data():
     """Load data from CSV or Excel, prioritizing the CSV mentioned in instructions."""
@@ -68,43 +76,13 @@ def extract_json(text):
         text = text[start:end+1]
     return json.loads(text)
 
-def screen_company(model, company_name, country, nace_code):
+def screen_company(model, company_name, country, nace_code, template):
     """Call Gemini API to evaluate a single company."""
-    prompt = f"""
-You are an expert Private Equity Investment Associate specializing in B2B Tech and AI.
-Evaluate the following company against our 'AI Forward Deployed Engineering (FDE)' investment thesis.
-
-### Company Information:
-- Name: {company_name}
-- Country: {country}
-- NACE Code: {nace_code}
-
-### Investment Thesis: AI Forward Deployed Engineering (FDE)
-We are looking for companies that bridge the gap between AI research and practical enterprise application. 
-They design, deploy, and maintain custom AI pipelines, proprietary RAG systems, and multi-agent workflows.
-
-### Qualification Criteria:
-1. **Direct Match:** Already provides custom AI deployment, RAG systems, or fine-tuning services.
-2. **High Potential:** High-quality custom software development firms, cloud architecture consultancies, or IT service providers (NACE 6201/6202) with strong engineering talent that can pivot to AI scaling.
-
-### Exclusion Criteria:
-- Pure hardware distributors.
-- Basic IT staffing or recruitment agencies.
-- Low-value SaaS reseller shops.
-- Traditional web design or marketing agencies.
-
-### Task:
-1. Use your internal knowledge and search tools (if available) to understand the company's current service offering and technical depth.
-2. Determine if the company is a 'Keep' (True) or 'Exclude' (False).
-3. Provide a concise 3-4 sentence reasoning.
-
-### Output Format:
-Return ONLY a valid JSON object. No other text.
-{{
-  "keep_sample": boolean,
-  "reasoning": "string"
-}}
-"""
+    prompt = template.format(
+        company_name=company_name,
+        country=country,
+        nace_code=nace_code
+    )
 
     for attempt in range(MAX_RETRIES):
         try:
@@ -131,8 +109,10 @@ def main():
     try:
         # 1. Load the original source data
         df = load_data()
+        # 2. Load the prompt template
+        template = load_prompt_template()
     except Exception as e:
-        print(f"FATAL: Could not load data. {e}")
+        print(f"FATAL: {e}")
         return
 
     # Check for required columns
@@ -178,7 +158,7 @@ def main():
         country = row[COL_COUNTRY]
         nace = row[COL_NACE]
 
-        result = screen_company(model, name, country, nace)
+        result = screen_company(model, name, country, nace, template)
         
         df.at[index, 'AI_FDE_Match'] = result.get('keep_sample')
         df.at[index, 'Screening_Reasoning'] = result.get('reasoning')
