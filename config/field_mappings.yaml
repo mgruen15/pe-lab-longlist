@@ -1,0 +1,40 @@
+# Canonical field mappings from raw source columns to the internal data model.
+# Add or extend source_columns when ingesting a new Orbis export variant.
+
+orbis:
+  company_name:       "Unternehmensname Latin alphabet"
+  country:            "ISO Ländercode"
+  revenue_eur_latest: "Betriebsertrag (Umsatz) tsd EUR Letztes verf. Jahr"
+  ebitda_eur_latest:  "EBITDA tsd EUR Letztes verf. Jahr"
+  revenue_year:       "Letztes verf. Jahr"
+  employees:          "Anzahl der Mitarbeiter Letztes verf. Jahr"
+  industry_code:      "NACE Rev. 2 Core Code (4 Ziffern)"
+  ownership_status:   "Quoted"          # "Ja" = listed, "Nein" = private
+  inactive:           "Inactive"
+  consolidation_code: "Konsolidierungscode"
+
+  # Revenue and EBITDA in the Orbis export are in thousands EUR; multiply by 1000
+  revenue_unit: "tsd_eur"
+  ebitda_unit:  "tsd_eur"
+
+internal:
+  company_name:       "Company Name"
+  country:            "Country"
+  revenue_eur_latest: "Revenue (€M)"
+  ebitda_eur_latest:  "EBITDA (€M)"
+  employees:          "FTEs"
+  industry_code:      "NACE Code"
+  ai_category:        "AI Category"
+  description:        "Description"
+  source:             "Source"
+  ai_fde_match:       "AI_FDE_Match"
+  revenue_unit: "mn_eur"
+  ebitda_unit:  "mn_eur"
+
+# Region bucket mapping from ISO country code
+region_buckets:
+  DACH:    ["DE", "AT", "CH"]
+  Benelux: ["BE", "NL", "LU"]
+  Denmark: ["DK"]
+  Adjacent: ["FR", "GB", "SE", "NO", "FI", "PL", "CZ", "HU"]
+  Other:   []    # catch-all for everything else

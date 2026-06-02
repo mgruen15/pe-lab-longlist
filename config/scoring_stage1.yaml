@@ -1,0 +1,76 @@
+# Stage 1 – Quantitative scorecard.
+# Applied to every company that reaches hard_filter_pass or hard_filter_margin.
+# All weights must sum to 100. Scores per criterion are 0–10.
+# Final score = sum(weight_i * score_i) / 100  → range 0–10.
+
+criteria:
+
+  revenue_size:
+    weight: 20
+    description: "Absolute revenue as a proxy for company maturity"
+    bins:                         # upper bound (exclusive), score
+      - [10_000_000,  3]
+      - [25_000_000,  6]
+      - [50_000_000,  8]
+      - [75_000_000, 10]
+      - [100_000_001, 9]          # near ceiling → slight discount
+    missing_data_rule: "score_0"
+
+  ebitda_margin:
+    weight: 20
+    description: "EBITDA as % of revenue – profitability quality signal"
+    bins:                         # upper bound (exclusive), score
+      - [0.05,  2]
+      - [0.10,  5]
+      - [0.15,  7]
+      - [0.20, 10]
+      - [1.00,  8]                # unusually high margin → slight discount
+    missing_data_rule: "score_3"  # assume average-ish when data absent
+
+  region_fit:
+    weight: 15
+    description: "Geographic alignment with target markets"
+    mapping:
+      DACH:     10
+      Denmark:  10
+      Benelux:  10
+      Adjacent:  5
+      Other:     0
+    missing_data_rule: "score_0"
+
+  nace_alignment:
+    weight: 20
+    description: "NACE code alignment with AI/software engineering thesis"
+    mapping:
+      6201: 10    # Custom software development
+      6202:  9    # IT consultancy
+      6209:  7    # Other IT services
+      6311:  6    # Data processing / hosting
+      7020:  5    # Management consultancy
+      4651:  3    # Wholesale ICT equipment
+    default_score: 2              # unknown NACE but passed hard filter
+    missing_data_rule: "score_2"
+
+  revenue_per_employee:
+    weight: 15
+    description: "Productivity proxy (EUR per FTE)"
+    bins:
+      - [50_000,   2]
+      - [100_000,  5]
+      - [150_000,  8]
+      - [999_999, 10]
+    missing_data_rule: "score_3"
+
+  company_size_employees:
+    weight: 10
+    description: "FTE count – target is 50–500 for PE platform"
+    bins:
+      - [50,    4]
+      - [200,  10]
+      - [500,   8]
+      - [1000,  5]
+      - [99999, 2]
+    missing_data_rule: "score_3"
+
+# Advance threshold: companies with final_score >= pass_threshold advance to Stage 2
+pass_threshold: 6.0

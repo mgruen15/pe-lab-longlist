@@ -1,0 +1,96 @@
+# Stage 2 – Qualitative scorecard.
+# Applied to every company that passes Stage 1 (stage1_pass).
+# Combines LLM-assisted AI-thesis screening with analyst-input fields.
+# All weights must sum to 100. Scores per criterion are 0–10.
+
+llm_screening:
+  model: "gemini-2.5-flash-preview-05-20"
+  prompt_template: "config/prompt_template.md"
+  max_retries: 3
+  backoff_base_seconds: 2
+  sleep_between_calls_seconds: 5
+  output_field: "ai_fde_match"        # boolean extracted from LLM JSON
+  reasoning_field: "screening_reasoning"
+
+criteria:
+
+  ai_fde_thesis_fit:
+    weight: 30
+    description: "Direct or high-potential fit with AI Forward Deployed Engineering thesis"
+    source: "llm"                     # populated by score_stage2.py from LLM output
+    scoring:
+      direct_match: 10               # already provides custom AI/RAG/agent deployment
+      high_potential: 7              # strong engineering base, clear pivot path
+      partial_fit: 4                 # some relevant services but significant gaps
+      no_fit: 0
+    missing_data_rule: "score_0"
+
+  value_creation_potential:
+    weight: 20
+    description: "Margin expansion, AI productisation, or cross-sell opportunity"
+    source: "analyst"
+    scoring_rubric:
+      10: "Clear path to 3–5x EBITDA via AI productisation or platform play"
+      7:  "Identifiable levers but require significant operational change"
+      4:  "Limited upside beyond organic growth"
+      1:  "No visible value-creation path"
+    missing_data_rule: "score_0"
+
+  management_team:
+    weight: 15
+    description: "Technical depth and entrepreneurial quality of leadership"
+    source: "analyst"
+    scoring_rubric:
+      10: "Founder-led, deep AI/engineering expertise, PE-ready"
+      7:  "Strong technical leadership, some gaps in commercial capability"
+      4:  "Adequate management, limited AI depth"
+      1:  "Significant leadership risk"
+    missing_data_rule: "score_0"
+
+  competitive_defensibility:
+    weight: 10
+    description: "Proprietary methods, IP, client stickiness, or talent moat"
+    source: "analyst"
+    scoring_rubric:
+      10: "Proprietary platform or deep client lock-in"
+      7:  "Strong recurring relationships and niche expertise"
+      4:  "Commoditised but with some differentiation"
+      1:  "Fully commoditised, easy to replicate"
+    missing_data_rule: "score_3"
+
+  exit_optionality:
+    weight: 10
+    description: "Strategic buyer interest, PE re-sale, or roll-up potential"
+    source: "analyst"
+    scoring_rubric:
+      10: "Multiple credible strategic buyers; roll-up platform potential"
+      7:  "Some strategic interest; PE re-sale likely"
+      4:  "Limited buyer universe"
+      1:  "Very narrow exit path"
+    missing_data_rule: "score_3"
+
+  scalability:
+    weight: 10
+    description: "Revenue scalability without proportional cost increase"
+    source: "analyst"
+    scoring_rubric:
+      10: "Productised or platform-driven; high operating leverage"
+      7:  "Mix of project and recurring; some leverage"
+      4:  "Mostly bespoke; headcount-driven scaling"
+      1:  "Pure time-and-materials; no leverage"
+    missing_data_rule: "score_3"
+
+  risk_profile:
+    weight: 5
+    description: "Key-person risk, client concentration, regulatory exposure"
+    source: "analyst"
+    scoring_rubric:
+      10: "Diversified clients, distributed leadership, low regulatory risk"
+      7:  "Some concentration but manageable"
+      4:  "Notable key-person or client risk"
+      1:  "Material risk that could impair value"
+    missing_data_rule: "score_5"
+
+# Advance threshold: companies with final_score >= pass_threshold enter top-10 ranking
+pass_threshold: 6.0
+top_n: 10

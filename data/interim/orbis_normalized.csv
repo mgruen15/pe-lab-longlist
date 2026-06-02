@@ -1,0 +1,665 @@
+company_name,_name_key,country,region_bucket,revenue_eur_latest,ebitda_eur_latest,revenue_year,employees,industry_code,ownership_status,inactive,business_model_tags,source,stage_status
+KOMPLEX IT A/S,komplex it a s,DK,Denmark,92609729.2428427,4675111.491162,2025,41,6202,Private,False,,Orbis,raw
+MICROSOFT DEVELOPMENT CENTER COPENHAGEN APS,microsoft development center copenhagen aps,DK,Denmark,91909819.7652416,10859334.1556135,2025,316,6201,Private,False,,Orbis,raw
+ISO PUBLIC SERVICES GMBH,iso public services gmbh,DE,DACH,99940804.98,5072519.76,2024,164,6201,Private,False,,Orbis,raw
+SHOWPAD,showpad,BE,Benelux,99091000.0,13629000.0,2024,376,6201,Private,False,,Orbis,raw
+DALUX APS,dalux aps,DK,Denmark,86836206.3177823,13268275.2052036,2025,528,6201,Private,False,,Orbis,raw
+LINK MOBILITY GMBH,link mobility gmbh,DE,DACH,97570003.35,3355038.27,2024,28,6209,Private,False,,Orbis,raw
+MUTUAL IT,mutual it,BE,Benelux,97047522.0,2228148.0,2024,377,6201,Private,False,,Orbis,raw
+BENTELER BUSINESS SERVICES GMBH,benteler business services gmbh,DE,DACH,97005129.57000001,10143410.680000002,2024,284,6209,Private,False,,Orbis,raw
+CONCENTRIX GLOBAL SERVICES GMBH,concentrix global services gmbh,DE,DACH,96825148.3,6769908.31,2024,1822,6209,Private,False,,Orbis,raw
+CREALOGIX HOLDING AG,crealogix holding ag,CH,DACH,92100673.78996961,9087094.89109233,2023,383,6209,Private,False,,Orbis,raw
+SEIBERT GROUP GMBH,seibert group gmbh,DE,DACH,90467195.78999999,7524093.149999999,2023,299,6201,Private,False,,Orbis,raw
+BTC IT SERVICES GMBH,btc it services gmbh,DE,DACH,95669258.28999999,9268232.200000001,2024,538,6209,Private,False,,Orbis,raw
+HH PRINT MANAGEMENT DEUTSCHLAND GMBH,hh print management deutschland gmbh,DE,DACH,91916797.42,4470393.2299999995,2023,121,6209,Private,False,,Orbis,raw
+INTERSYSTEMS B.V.,intersystems b v,NL,Benelux,89223287.0,1134679.0,2023,293,6201,Private,False,,Orbis,raw
+CAS-VOS,cas vos,BE,Benelux,91981476.0,3800756.0,2024,343,4222,Private,False,,Orbis,raw
+METRIXLAB HOLDING B.V.,metrixlab holding b v,NL,Benelux,92972000.0,11238000.0,2022,929,6201,Private,False,,Orbis,raw
+DAMOVO DEUTSCHLAND GMBH & CO. KG,damovo deutschland gmbh co kg,DE,DACH,92430884.14,7102691.67,2024,273,6209,Private,False,,Orbis,raw
+MOBILE VIKINGS,mobile vikings,BE,Benelux,92391115.0,7025032.0,2024,93,6120,Private,False,,Orbis,raw
+MARKANT SERVICES INTERNATIONAL GMBH,markant services international gmbh,DE,DACH,91611379.46,7277042.68,2024,458,6209,Private,False,,Orbis,raw
+CRONOS EUROPA,cronos europa,BE,Benelux,91475523.0,4646514.0,2024,320,6202,Private,False,,Orbis,raw
+CRONOS EUROPA LUXEMBOURG SA,cronos europa luxembourg sa,LU,Benelux,91032378.0,1768925.0,2024,n.v.,6202,Private,False,,Orbis,raw
+HITACHI VANTARA AUSTRIA GMBH,hitachi vantara austria gmbh,AT,DACH,87214355.03,9466663.290000001,2024,58,6209,Private,False,,Orbis,raw
+BAVARIA FICTION GMBH,bavaria fiction gmbh,DE,DACH,90120892.86999999,6006819.98,2024,430,6201,Private,False,,Orbis,raw
+MAXON COMPUTER GMBH,maxon computer gmbh,DE,DACH,90016788.0,5534008.0,2024,176,6201,Private,False,,Orbis,raw
+S&N GROUP AG,s n group ag,DE,DACH,89695000.03,7774532.28,2024,491,6202,Private,False,,Orbis,raw
+OPERATOR GROEP DELFT B.V.,operator groep delft b v,NL,Benelux,89182537.0,3222987.0,2024,969,6202,Private,False,,Orbis,raw
+IO BELGIUM,io belgium,BE,Benelux,87576415.0,12042642.0,2024,353,6201,Private,False,,Orbis,raw
+ROBOTRON DATENBANK-SOFTWARE GMBH,robotron datenbank software gmbh,DE,DACH,83554983.27,8959868.65,2024,574,6201,Private,False,,Orbis,raw
+FINANZ INFORMATIK SOLUTIONS PLUS GMBH & CO. KG,finanz informatik solutions plus gmbh co kg,DE,DACH,84761789.77,7664399.96,2022,492,6201,Private,False,,Orbis,raw
+AUDATEX AUTOONLINE GMBH,audatex autoonline gmbh,DE,DACH,83155435.89999999,11587240.93,2024,72,6201,Private,False,,Orbis,raw
+GWS GESELLSCHAFT FUER WARENWIRTSCHAFTS-SYSTEME MIT BESCHRAENKTER HAFTUNG,gws gesellschaft fuer warenwirtschafts systeme mit beschraenkter haftung,DE,DACH,86407318.3,3310700.09,2024,610,6201,Private,False,,Orbis,raw
+ABLETON AG,ableton ag,DE,DACH,86082370.29,12253044.87,2024,478,6201,Private,False,,Orbis,raw
+RIB SOFTWARE SE,rib software se,DE,DACH,86029000.0,1050000.0,2024,194,6209,Private,False,,Orbis,raw
+PAUWELS CONSULTING,pauwels consulting,BE,Benelux,85398684.0,6969402.0,2024,445,6202,Private,False,,Orbis,raw
+VCONSYST B.V.,vconsyst b v,NL,Benelux,85232402.0,5563189.0,2024,31,6202,Private,False,,Orbis,raw
+AXA GROUP OPERATIONS GERMANY GMBH,axa group operations germany gmbh,DE,DACH,85085962.58999999,8568799.15,2024,137,6201,Private,False,,Orbis,raw
+AEB SE,aeb se,DE,DACH,84291444.14999999,9620165.61,2024,581,6209,Private,False,,Orbis,raw
+COLLABORATION BETTERS THE WORLD,collaboration betters the world,BE,Benelux,84065851.0,4078572.0,2024,441,6209,Private,False,,Orbis,raw
+UNISYSTEMS LUXEMBOURG S.A R.L.,unisystems luxembourg s a r l,LU,Benelux,82326325.0,10763072.0,2024,n.v.,6202,Private,False,,Orbis,raw
+CADFEM GERMANY GMBH,cadfem germany gmbh,DE,DACH,81542302.64999999,3477173.49,2024,188,6201,Private,False,,Orbis,raw
+INFOMOTION GMBH,infomotion gmbh,DE,DACH,80056194.43,2858129.43,2024,573,6202,Private,False,,Orbis,raw
+AIRITSYSTEMS GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG,airitsystems gesellschaft mit beschraenkter haftung,DE,DACH,81077638.22,6242139.9799999995,2024,250,6209,Private,False,,Orbis,raw
+KLA-TENCOR GMBH,kla tencor gmbh,DE,DACH,78461086.0,13954456.0,2024,181,6201,Private,False,,Orbis,raw
+PARCIT GMBH,parcit gmbh,DE,DACH,79794045.82,5734587.3,2024,466,6201,Private,False,,Orbis,raw
+YOUFORCE B.V.,youforce b v,NL,Benelux,79366696.0,9902019.0,2024,285,6201,Private,False,,Orbis,raw
+SNAP CAMERA GMBH,snap camera gmbh,DE,DACH,78261000.0,5354000.0,2024,30,6201,Private,False,,Orbis,raw
+BMW CAR IT GMBH,bmw car it gmbh,DE,DACH,78170519.13,1082301.75,2024,287,6201,Private,False,,Orbis,raw
+SIMAC,simac,BE,Benelux,78117786.0,1873962.0,2024,171,4222,Private,False,,Orbis,raw
+SWORD TECHNOLOGIES S.A.,sword technologies s a,LU,Benelux,78014008.0,3825935.0,2024,n.v.,6201,Private,False,,Orbis,raw
+SCALIAN GERMANY AKTIENGESELLSCHAFT,scalian germany aktiengesellschaft,DE,DACH,77399398.95,9237381.41,2024,698,6202,Private,False,,Orbis,raw
+MSG FOR AUTOMOTIVE GMBH,msg for automotive gmbh,DE,DACH,77260066.97,3011921.22,2024,470,6201,Private,False,,Orbis,raw
+DSA DATEN- UND SYSTEMTECHNIK GMBH,dsa daten und systemtechnik gmbh,DE,DACH,77061658.03,6115867.77,2024,293,6201,Private,False,,Orbis,raw
+KUMAVISION AG,kumavision ag,DE,DACH,72384938.52,4141506.77,2023,418,6201,Private,False,,Orbis,raw
+ENDAVA GMBH,endava gmbh,DE,DACH,74694105.67,5766146.59,2024,165,6201,Private,False,,Orbis,raw
+TECHNO1,techno1,BE,Benelux,76123492.0,3001223.0,2024,n.v.,4740,Private,False,,Orbis,raw
+DATAGROUP BUSINESS SOLUTIONS GMBH,datagroup business solutions gmbh,DE,DACH,69977884.669,6854171.2,2024,197,6202,Private,False,,Orbis,raw
+SINC GMBH,sinc gmbh,DE,DACH,70837214.20899999,7470996.680000001,2023,294,6201,Private,False,,Orbis,raw
+EYEO GMBH,eyeo gmbh,DE,DACH,73362188.66,5621194.1,2022,171,6201,Private,False,,Orbis,raw
+CGI DANMARK A/S,cgi danmark a s,DK,Denmark,65467326.627778694,7204220.42302333,2025,330,6202,Private,False,,Orbis,raw
+CAPGEMINI DEUTSCHLAND SERVICES GMBH,capgemini deutschland services gmbh,DE,DACH,73874692.66,14035391.709999999,2024,461,6201,Private,False,,Orbis,raw
+DATAGROUP HAMBURG GMBH,datagroup hamburg gmbh,DE,DACH,68521025.729,7046291.47,2024,295,6209,Private,False,,Orbis,raw
+LESSMORE GMBH,lessmore gmbh,DE,DACH,73728357.46,14534273.709999999,2024,17,6201,Private,False,,Orbis,raw
+AGILENT TECHNOLOGIES BELGIUM,agilent technologies belgium,BE,Benelux,65785407.99999999,4889551.0,2025,102,4618,Private,False,,Orbis,raw
+CERNER HEALTH SERVICES DEUTSCHLAND GMBH,cerner health services deutschland gmbh,DE,DACH,68678674.19999999,4504698.42,2023,283,6201,Private,False,,Orbis,raw
+COMARCH AKTIENGESELLSCHAFT,comarch aktiengesellschaft,DE,DACH,72974545.13,4836985.21,2024,242,6201,Private,False,,Orbis,raw
+MINDCURV GROUP GMBH,mindcurv group gmbh,DE,DACH,68541217.199,9024326.16,2023,724,6201,Private,False,,Orbis,raw
+"ITERATEC GMBH, NIEDERLASSUNG OESTERREICH",iteratec gmbh niederlassung oesterreich,AT,DACH,68491453.86,6412498.34,2023,n.v.,6209,Private,False,,Orbis,raw
+E:FS TECHHUB GMBH,e fs techhub gmbh,DE,DACH,71877782.19,3599399.89,2024,539,6201,Private,False,,Orbis,raw
+TECHNIA GMBH,technia gmbh,DE,DACH,71802274.1,6109514.36,2024,193,6202,Private,False,,Orbis,raw
+DATAGROUP OPERATIONS GMBH,datagroup operations gmbh,DE,DACH,66585439.16,6598168.15,2024,259,6209,Private,False,,Orbis,raw
+ZF DIGITAL SOLUTIONS INTERNATIONAL,zf digital solutions international,BE,Benelux,71559811.0,14899772.0,2024,182,6201,Private,False,,Orbis,raw
+COGNIZANT TECHNOLOGY SOLUTIONS BELGIUM,cognizant technology solutions belgium,BE,Benelux,71158055.0,6778673.0,2024,285,6202,Private,False,,Orbis,raw
+FIS INFORMATIONSSYSTEME UND CONSULTING GMBH,fis informationssysteme und consulting gmbh,DE,DACH,71103989.71,5026060.79,2024,564,6202,Private,False,,Orbis,raw
+ALTAIR ENGINEERING GMBH,altair engineering gmbh,DE,DACH,70862655.71000001,4488258.8,2024,285,6201,Private,False,,Orbis,raw
+UNIT IT HOLDING A/S,unit it holding a s,DK,Denmark,64665689.7966156,5442780.19030236,2025,244,6202,Private,False,,Orbis,raw
+UBISOFT BLUE BYTE GMBH,ubisoft blue byte gmbh,DE,DACH,67773790.04,5363157.930000001,2023,701,6201,Private,False,,Orbis,raw
+IHK GESELLSCHAFT FUER INFORMATIONSVERARBEITUNG MBH,ihk gesellschaft fuer informationsverarbeitung mbh,DE,DACH,69941412.06899999,5144078.58,2024,350,6209,Private,False,,Orbis,raw
+ACP IT SOLUTIONS AG,acp it solutions ag,DE,DACH,66897284.92,3554968.38,2024,193,6209,Private,False,,Orbis,raw
+WORKDAY GMBH,workday gmbh,DE,DACH,69559518.6,4608438.84,2024,291,6201,Private,False,,Orbis,raw
+4FLOW SE,4flow se,DE,DACH,69441507.69,1224650.48,2024,397,6201,Private,False,,Orbis,raw
+CHARGECLOUD GMBH,chargecloud gmbh,DE,DACH,69075669.67,1276395.25,2024,144,6209,Private,False,,Orbis,raw
+"MPDV MIKROLAB GMBH, MIKROPROZESSORDATENVERARBEITUNG UND MIKROPROZESSORLABOR",mpdv mikrolab gmbh mikroprozessordatenverarbeitung und mikroprozessorlabor,DE,DACH,68965111.06,12406105.0,2024,325,6201,Private,False,,Orbis,raw
+GE VERNOVA ELECTRIFICATION SOFTWARE GERMANY GMBH,ge vernova electrification software germany gmbh,DE,DACH,68756313.03999999,8499329.55,2024,39,6201,Private,False,,Orbis,raw
+CIRCET BELGIUM,circet belgium,BE,Benelux,68229651.0,6081615.0,2024,361,4321,Private,False,,Orbis,raw
+S.O.N.J.A.,s o n j a,BE,Benelux,68198801.0,3856605.0,2024,34,5224,Private,False,,Orbis,raw
+NOMIOS NETHERLANDS B.V.,nomios netherlands b v,NL,Benelux,66016520.00000001,7014936.0,2022,80,6202,Private,False,,Orbis,raw
+PAUWELS ENGINEERING,pauwels engineering,BE,Benelux,64797000.0,2847000.0,2024,214,4638,Private,False,,Orbis,raw
+VITROCONNECT GMBH,vitroconnect gmbh,DE,DACH,67281363.52,9572422.350000001,2024,95,6209,Private,False,,Orbis,raw
+FINCON REPLY GMBH,fincon reply gmbh,DE,DACH,66995824.699999996,3019041.38,2024,426,6202,Private,False,,Orbis,raw
+OPTIMAL SYSTEMS GMBH,optimal systems gmbh,DE,DACH,63996864.81,6364479.31,2022,555,6201,Private,False,,Orbis,raw
+SEVEN PRINCIPLES AG,seven principles ag,DE,DACH,66858000.0,2199000.0,2024,356,6209,Public,False,,Orbis,raw
+ALTAIR ENGINEERING GMBH ZWEIGNIEDERLASSUNG OESTERREICH,altair engineering gmbh zweigniederlassung oesterreich,AT,DACH,65082378.49,5196853.03,2022,n.v.,6209,Private,False,,Orbis,raw
+GITLAB GMBH,gitlab gmbh,DE,DACH,66670204.69,1784969.73,2024,146,6201,Private,False,,Orbis,raw
+WILKEN GMBH,wilken gmbh,DE,DACH,66598397.24,3761903.73,2024,429,6202,Private,False,,Orbis,raw
+IT FOR INTELLECTUAL PROPERTY MANAGEMENT GMBH,it for intellectual property management gmbh,DE,DACH,66445046.0,1526279.0,2024,173,6209,Private,False,,Orbis,raw
+JIMDO GMBH,jimdo gmbh,DE,DACH,66024445.470000006,12913264.68,2024,173,6209,Private,False,,Orbis,raw
+USU GMBH,usu gmbh,DE,DACH,63797555.47,6627162.33,2024,411,6202,Private,False,,Orbis,raw
+MIC-DATENVERARBEITUNG GESELLSCHAFT M.B.H.,mic datenverarbeitung gesellschaft m b h,AT,DACH,65699405.419999994,6912798.97,2024,444,6209,Private,False,,Orbis,raw
+TRIMBLE SERVICES GMBH,trimble services gmbh,DE,DACH,61613224.94,3179552.23,2023,379,6201,Private,False,,Orbis,raw
+SYZYGY AG,syzygy ag,DE,DACH,57891000.0,2547000.0,2025,506,6201,Public,False,,Orbis,raw
+LISAM EHS SOFTWARE,lisam ehs software,BE,Benelux,65201000.0,6273000.0,2024,481,6201,Private,False,,Orbis,raw
+SCHEER GMBH,scheer gmbh,DE,DACH,65035184.19,2815611.24,2024,328,6202,Private,False,,Orbis,raw
+DATAGROUP RHEIN-MAIN GMBH,datagroup rhein main gmbh,DE,DACH,60148572.96,9258400.26,2024,332,6202,Private,False,,Orbis,raw
+VANDERLANDE LOGISTICS GMBH,vanderlande logistics gmbh,DE,DACH,59211169.33,9789820.91,2025,364,6209,Private,False,,Orbis,raw
+THUEGA SMARTSERVICE GMBH,thuega smartservice gmbh,DE,DACH,64669914.57,7462215.1899999995,2024,294,6209,Private,False,,Orbis,raw
+SNOWFLAKE COMPUTING GMBH,snowflake computing gmbh,DE,DACH,64596605.41,4470977.5,2024,267,6201,Private,False,,Orbis,raw
+CIPAL,cipal,BE,Benelux,64232000.0,8138000.0,2024,23,6202,Private,False,,Orbis,raw
+BAUER GLOBAL TECHNOLOGY GMBH,bauer global technology gmbh,DE,DACH,63893802.48,3238743.5799999996,2024,26,6209,Private,False,,Orbis,raw
+TIETOEVRY AUSTRIA GMBH,tietoevry austria gmbh,AT,DACH,63652350.08,7440120.42,2024,n.v.,6209,Private,False,,Orbis,raw
+AGILOX SERVICES GMBH,agilox services gmbh,AT,DACH,63575036.21,4103789.1200000006,2024,n.v.,6209,Private,False,,Orbis,raw
+ORACLE BELGIUM,oracle belgium,BE,Benelux,58122383.0,5878529.0,2025,175,4741,Private,False,,Orbis,raw
+AMBOSS SE,amboss se,DE,DACH,63243418.230000004,7935681.41,2024,420,6201,Private,False,,Orbis,raw
+ASSECO SOLUTIONS AG,asseco solutions ag,DE,DACH,63193337.56,3841547.33,2024,327,6202,Private,False,,Orbis,raw
+SSC PLUS B.V.,ssc plus b v,NL,Benelux,55914848.0,1522992.0,2025,379,6202,Private,False,,Orbis,raw
+SOFTGARDEN E-RECRUITING GMBH,softgarden e recruiting gmbh,DE,DACH,62995859.550000004,7956657.199999999,2024,175,6201,Private,False,,Orbis,raw
+ITERATEC GMBH,iteratec gmbh,DE,DACH,62873816.27,4131229.47,2024,450,6201,Private,False,,Orbis,raw
+CHEOPS TECHNOLOGY,cheops technology,BE,Benelux,62825001.0,9644730.0,2024,328,4651,Private,False,,Orbis,raw
+SIZ GMBH,siz gmbh,DE,DACH,62814686.29,2290017.57,2024,419,6202,Private,False,,Orbis,raw
+SOS SOFTWARE SERVICE GMBH,sos software service gmbh,DE,DACH,55423467.080000006,1900217.2,2025,63,6201,Private,False,,Orbis,raw
+PMG PRESSE-MONITOR GMBH & CO. KG,pmg presse monitor gmbh co kg,DE,DACH,62243783.11,6504409.84,2024,73,6209,Private,False,,Orbis,raw
+E.INFRA GMBH,e infra gmbh,DE,DACH,62044920.89,1685862.58,2024,292,6201,Private,False,,Orbis,raw
+AE,ae,BE,Benelux,61968811.0,4411854.0,2024,322,6202,Private,False,,Orbis,raw
+VERTIGIS GMBH,vertigis gmbh,DE,DACH,61559970.52,8992353.98,2024,203,6201,Private,False,,Orbis,raw
+BNP PARIBAS PARTNERS FOR INNOVATION BELGIUM,bnp paribas partners for innovation belgium,BE,Benelux,61128136.0,10261206.0,2024,5,6201,Private,False,,Orbis,raw
+GLOBETEAM A/S,globeteam a s,DK,Denmark,60796777.07678001,6378326.55654593,2024,46,6202,Private,False,,Orbis,raw
+BLACKNED GMBH,blackned gmbh,DE,DACH,60745252.09,3515463.4,2024,195,6201,Private,False,,Orbis,raw
+NEWIN,newin,BE,Benelux,60288995.0,6304799.0,2024,127,4222,Private,False,,Orbis,raw
+S&N INVENT GMBH,s n invent gmbh,DE,DACH,57920398.6,4082348.0,2022,270,6201,Private,False,,Orbis,raw
+DXC TECHNOLOGY BELGIUM,dxc technology belgium,BE,Benelux,56348650.0,3356653.0,2024,166,6201,Private,False,,Orbis,raw
+SAPIENT GMBH,sapient gmbh,DE,DACH,58602868.98,1527372.51,2024,275,6202,Private,False,,Orbis,raw
+XL2 GMBH,xl2 gmbh,DE,DACH,58505406.76,9457875.93,2024,242,6202,Private,False,,Orbis,raw
+ARXUS,arxus,BE,Benelux,58492773.0,5363667.0,2024,76,6202,Private,False,,Orbis,raw
+VGL PUBLISHING AG,vgl publishing ag,DE,DACH,58451927.940000005,9830434.030000001,2024,66,6201,Private,False,,Orbis,raw
+"PROSOZ HERTEN SOFTWAREENTWICKLUNGS- UND BERATUNGSGESELLSCHAFT FUER GEMEINDEN, STAEDTE UND KREISE MBH",prosoz herten softwareentwicklungs und beratungsgesellschaft fuer gemeinden staedte und kreise mbh,DE,DACH,58419788.21,2683319.08,2024,505,6201,Private,False,,Orbis,raw
+SIMCORP BENELUX,simcorp benelux,BE,Benelux,58288516.0,3717681.0,2024,38,6201,Private,False,,Orbis,raw
+SINCH GERMANY GMBH,sinch germany gmbh,DE,DACH,54627063.589999996,2916964.75,2023,23,6201,Private,False,,Orbis,raw
+ABB E-MOBILITY GMBH,abb e mobility gmbh,DE,DACH,58087265.08,5196080.14,2024,89,6201,Private,False,,Orbis,raw
+ZORGCONNECT,zorgconnect,BE,Benelux,58040165.0,1520621.0,2024,14,6202,Private,False,,Orbis,raw
+BLINKS LABS GMBH,blinks labs gmbh,DE,DACH,56275277.62,3794235.08,2024,142,6201,Private,False,,Orbis,raw
+KYNDRYL DEUTSCHLAND AVIATION INDUSTRY SERVICES GMBH,kyndryl deutschland aviation industry services gmbh,DE,DACH,55404798.29,5289053.87,2024,65,6209,Private,False,,Orbis,raw
+VENZO A/S,venzo a s,DK,Denmark,50752095.0727671,5123907.18980064,2025,163,6202,Private,False,,Orbis,raw
+INFRONT FINANCIAL TECHNOLOGY GMBH,infront financial technology gmbh,DE,DACH,57368846.089999996,4912964.47,2024,172,6202,Private,False,,Orbis,raw
+T.CON GMBH & CO. KG,t con gmbh co kg,DE,DACH,57259959.309999995,6616480.59,2024,378,6202,Private,False,,Orbis,raw
+ORANGE CYBERDEFENSE GERMANY GMBH,orange cyberdefense germany gmbh,DE,DACH,57195937.61,1157810.28,2024,156,6201,Private,False,,Orbis,raw
+NEXUZHEALTH,nexuzhealth,BE,Benelux,57158862.0,8840286.0,2024,245,6201,Private,False,,Orbis,raw
+CLEVERBRIDGE GMBH,cleverbridge gmbh,DE,DACH,57150674.57,14132957.470999999,2024,163,6202,Private,False,,Orbis,raw
+COMPUTER TASK GROUP BELGIUM,computer task group belgium,BE,Benelux,57056458.0,2843904.0,2024,355,4690,Private,False,,Orbis,raw
+GDV DIENSTLEISTUNGS-GMBH,gdv dienstleistungs gmbh,DE,DACH,56959571.12,10223191.51,2024,405,6209,Private,False,,Orbis,raw
+BE-TERNA GMBH,be terna gmbh,AT,DACH,56929384.01,2326910.81,2024,284,6209,Private,False,,Orbis,raw
+FASHION DIGITAL GMBH & CO. KG,fashion digital gmbh co kg,DE,DACH,56752261.41,1568508.4300000002,2024,185,6201,Private,False,,Orbis,raw
+EXCLUSIVE NETWORKS AUSTRIA GMBH,exclusive networks austria gmbh,AT,DACH,53298578.419999994,1815932.8,2023,20,6209,Private,False,,Orbis,raw
+SAVACO,savaco,BE,Benelux,56579389.0,1754112.0,2024,207,6201,Private,False,,Orbis,raw
+INTERXION BELGIUM,interxion belgium,BE,Benelux,56521960.0,14847076.0,2024,42,6209,Private,False,,Orbis,raw
+CENTRUM VOOR INFORMATICA,centrum voor informatica,BE,Benelux,56484827.0,7958429.0,2024,262,6202,Private,False,,Orbis,raw
+G DATA CYBERDEFENSE AG,g data cyberdefense ag,DE,DACH,56049489.18,8647226.57,2024,531,6202,Private,False,,Orbis,raw
+STAR FINANZ-SOFTWARE ENTWICKLUNG UND VERTRIEBS GMBH,star finanz software entwicklung und vertriebs gmbh,DE,DACH,55993007.449999996,3557223.23,2024,318,6209,Private,False,,Orbis,raw
+1ST SOLUTION CONSULTING GMBH,1st solution consulting gmbh,DE,DACH,55659873.08,2212467.33,2024,104,6201,Private,False,,Orbis,raw
+NVIDIA ARC GMBH,nvidia arc gmbh,DE,DACH,55608960.910000004,7898258.38,2024,158,6201,Private,False,,Orbis,raw
+PROTIME,protime,BE,Benelux,55484233.0,7595815.0,2024,310,4666,Private,False,,Orbis,raw
+HISOLUTIONS AG,hisolutions ag,DE,DACH,55448860.73,5587729.0,2024,362,6202,Private,False,,Orbis,raw
+IGZ INGENIEURGESELLSCHAFT FUER LOGISTISCHE INFORMATIONSSYSTEME MBH,igz ingenieurgesellschaft fuer logistische informationssysteme mbh,DE,DACH,55254682.47,10292343.9,2024,800,6201,Private,False,,Orbis,raw
+FLEXSO,flexso,BE,Benelux,55174739.0,2057221.0,2024,129,6201,Private,False,,Orbis,raw
+ERI BANCAIRE LUXEMBOURG S.A.,eri bancaire luxembourg s a,LU,Benelux,55162287.0,12872868.0,2024,n.v.,6201,Private,False,,Orbis,raw
+DIAMANT SOFTWARE GMBH,diamant software gmbh,DE,DACH,53374911.339999996,12645653.08,2024,319,6201,Private,False,,Orbis,raw
+I N F O D A S GESELLSCHAFT FUER SYSTEMENTWICKLUNG UND INFORMATIONSVERARBEITUNG MBH,i n f o d a s gesellschaft fuer systementwicklung und informationsverarbeitung mbh,DE,DACH,54962106.54,7073763.8,2024,236,6202,Private,False,,Orbis,raw
+SIGNPOST BELGIE,signpost belgie,BE,Benelux,54851974.0,2589801.0,2024,106,6202,Private,False,,Orbis,raw
+GRABARZ & PARTNER WERBEAGENTUR GMBH,grabarz partner werbeagentur gmbh,DE,DACH,51400839.95,2028282.51,2023,188,6202,Private,False,,Orbis,raw
+GTT COMMUNICATIONS GMBH,gtt communications gmbh,DE,DACH,54411089.410000004,7121553.07,2024,49,6209,Private,False,,Orbis,raw
+ALTIUM EUROPE GMBH,altium europe gmbh,DE,DACH,51962855.32,3085217.29,2023,108,6202,Private,False,,Orbis,raw
+SMARTRAC TECHNOLOGY GMBH,smartrac technology gmbh,DE,DACH,54250611.269,7516707.06,2024,90,6201,Private,False,,Orbis,raw
+REVEVOL S.A R.L.,revevol s a r l,LU,Benelux,54068944.0,4711995.0,2024,150,6202,Private,False,,Orbis,raw
+ALFAPEOPLE APS,alfapeople aps,DK,Denmark,53620822.807730995,5584606.80208689,2024,575,6202,Private,False,,Orbis,raw
+NETCONOMY GMBH,netconomy gmbh,AT,DACH,53611174.160000004,8469701.18,2024,n.v.,6209,Private,False,,Orbis,raw
+GARTNER BELGIUM,gartner belgium,BE,Benelux,53451320.0,2973734.0,2024,81,6202,Private,False,,Orbis,raw
+QUALCOMM TECHNOLOGIES GMBH,qualcomm technologies gmbh,DE,DACH,49597000.0,10453000.0,2024,204,6201,Private,False,,Orbis,raw
+CERENCE GMBH,cerence gmbh,DE,DACH,51843367.2,2841972.32,2022,386,6201,Private,False,,Orbis,raw
+OMADA A/S,omada a s,DK,Denmark,47003646.222645,1727930.4241914002,2025,265,6201,Private,False,,Orbis,raw
+IBYKUS AKTIENGESELLSCHAFT FUER INFORMATIONSTECHNOLOGIE,ibykus aktiengesellschaft fuer informationstechnologie,DE,DACH,53052693.59,8834194.63,2024,291,6201,Private,False,,Orbis,raw
+DEVOTEAM GMBH,devoteam gmbh,DE,DACH,49620502.760000005,4757304.26,2023,296,6202,Private,False,,Orbis,raw
+JEDOX GMBH,jedox gmbh,DE,DACH,52590829.35,1373282.73,2024,243,6201,Private,False,,Orbis,raw
+TRAKKEN GMBH,trakken gmbh,DE,DACH,49247094.53,3797945.08,2023,132,6201,Private,False,,Orbis,raw
+SYNCORE GMBH,syncore gmbh,DE,DACH,52135099.15,3732294.9699999997,2024,84,6201,Private,False,,Orbis,raw
+ELO DIGITAL OFFICE GMBH,elo digital office gmbh,DE,DACH,51635663.699999996,6155596.89,2024,314,6201,Private,False,,Orbis,raw
+CCV GMBH,ccv gmbh,DE,DACH,51194550.48,3183393.96,2024,252,6209,Private,False,,Orbis,raw
+ZVOOVE SOFTWARE GERMANY GMBH,zvoove software germany gmbh,DE,DACH,51115537.81,6591722.14,2024,150,6201,Private,False,,Orbis,raw
+AVEVA GMBH,aveva gmbh,DE,DACH,47714279.96,2440422.51,2023,6,6202,Private,False,,Orbis,raw
+CEGEKA BUSINESS SOLUTIONS BELGIE,cegeka business solutions belgie,BE,Benelux,50492220.0,3281791.0,2024,204,6202,Private,False,,Orbis,raw
+SIEVERS-SNC COMPUTER & SOFTWARE GMBH & CO. KG.,sievers snc computer software gmbh co kg,DE,DACH,46777246.160000004,1821831.67,2024,298,6202,Private,False,,Orbis,raw
+IBM CLIENT INNOVATION CENTER GERMANY GMBH,ibm client innovation center germany gmbh,DE,DACH,50193000.0,2044000.0,2024,449,6201,Private,False,,Orbis,raw
+CONTACT SOFTWARE GMBH,contact software gmbh,DE,DACH,49858035.53,5290591.08,2024,394,6201,Private,False,,Orbis,raw
+FINASTRA INTERNATIONAL GMBH,finastra international gmbh,DE,DACH,47672062.0,8650187.0,2024,39,6201,Private,False,,Orbis,raw
+LAB9 PRO,lab9 pro,BE,Benelux,49753699.0,1151437.0,2024,67,4650,Private,False,,Orbis,raw
+HYAND SOLUTIONS GMBH,hyand solutions gmbh,DE,DACH,48397409.099999994,6727522.22,2022,310,6209,Private,False,,Orbis,raw
+SAS INSTITUTE,sas institute,BE,Benelux,49335500.0,1754428.0,2024,106,4666,Private,False,,Orbis,raw
+EXASOL AG,exasol ag,DE,DACH,43178000.0,4389000.0,2025,160,6201,Public,False,,Orbis,raw
+AXIANS INFOMA GMBH,axians infoma gmbh,DE,DACH,45419136.3,5076308.84,2023,289,6201,Private,False,,Orbis,raw
+ZALARIS DEUTSCHLAND GMBH,zalaris deutschland gmbh,DE,DACH,47782797.63,3002327.9000000004,2024,162,6202,Private,False,,Orbis,raw
+SCIENCE + COMPUTING AKTIENGESELLSCHAFT,science computing aktiengesellschaft,DE,DACH,42198950.080000006,1942426.01,2025,290,6209,Private,False,,Orbis,raw
+CIVADIS,civadis,BE,Benelux,41975501.0,4791174.0,2025,227,6209,Private,False,,Orbis,raw
+BEST GAMING TECHNOLOGY GMBH,best gaming technology gmbh,AT,DACH,47428266.86000001,8766262.26,2024,141,6209,Private,False,,Orbis,raw
+TUI TECHNOLOGY,tui technology,BE,Benelux,41787317.0,4104959.0,2025,72,6202,Private,False,,Orbis,raw
+AVANADE BELGIUM,avanade belgium,BE,Benelux,42048443.0,1977735.0,2025,149,6202,Private,False,,Orbis,raw
+QUADIENT GERMANY GMBH & CO. KG,quadient germany gmbh co kg,DE,DACH,45058600.129999995,2709721.0799999996,2023,185,6201,Private,False,,Orbis,raw
+ELBEK & VEJRUP A/S,elbek vejrup a s,DK,Denmark,41552591.2243938,13406863.3677406,2025,169,6201,Private,False,,Orbis,raw
+APPLIED INTERNATIONAL INFORMATICS GMBH,applied international informatics gmbh,DE,DACH,46860033.21,4887291.47,2024,148,6201,Private,False,,Orbis,raw
+THEVALUECHAIN,thevaluechain,BE,Benelux,46758259.0,1052620.0,2024,109,6202,Private,False,,Orbis,raw
+VIRTUAL7 GMBH,virtual7 gmbh,DE,DACH,46353295.73,3291718.2899999996,2024,133,6201,Private,False,,Orbis,raw
+NORRIQ HOLDING A/S,norriq holding a s,DK,Denmark,46249605.3936546,3065051.9210816603,2024,260,6202,Private,False,,Orbis,raw
+WIPRO BUSINESS SOLUTIONS GMBH,wipro business solutions gmbh,DE,DACH,44264812.489999995,11463314.37,2024,162,6202,Private,False,,Orbis,raw
+FORVIS MAZARS GROUP BUSINESS SUPPORT,forvis mazars group business support,BE,Benelux,40719759.0,3150491.0,2025,n.v.,6209,Private,False,,Orbis,raw
+CSB-SYSTEM SE,csb system se,DE,DACH,45441226.99,6599505.9799999995,2024,359,6201,Private,False,,Orbis,raw
+ADA HEALTH GMBH,ada health gmbh,DE,DACH,45310247.629999995,1269802.55,2024,217,6201,Private,False,,Orbis,raw
+ECI SOFTWARE SOLUTIONS NEDERLAND B.V.,eci software solutions nederland b v,NL,Benelux,42505986.0,2167063.0,2023,241,6202,Private,False,,Orbis,raw
+HMF SMART SOLUTIONS GMBH,hmf smart solutions gmbh,DE,DACH,44806982.93,5086691.649999999,2024,161,6209,Private,False,,Orbis,raw
+BRICSYS,bricsys,BE,Benelux,44651429.0,7089783.0,2024,107,6202,Private,False,,Orbis,raw
+GAMELIGHT GMBH,gamelight gmbh,DE,DACH,41724619.66,14996397.91,2023,2,6201,Private,False,,Orbis,raw
+ITSG INFORMATIONSTECHNISCHE SERVICESTELLE DER GESETZLICHEN KRANKENVERSICHERUNG GMBH,itsg informationstechnische servicestelle der gesetzlichen krankenversicherung gmbh,DE,DACH,44359990.01,2164102.93,2024,213,6209,Private,False,,Orbis,raw
+CHANGEGROUP APS,changegroup aps,DK,Denmark,39148917.6832772,2113760.75615537,2025,24,6202,Private,False,,Orbis,raw
+MACH GMBH,mach gmbh,DE,DACH,43983548.33,3311164.87,2024,460,6201,Private,False,,Orbis,raw
+ERNST & YOUNG ADVISORY SERVICES,ernst young advisory services,BE,Benelux,38900955.0,1054753.0,2025,114,6202,Private,False,,Orbis,raw
+ISO SOFTWARE SYSTEME GMBH,iso software systeme gmbh,DE,DACH,43884445.010000005,2429479.24,2024,285,6201,Private,False,,Orbis,raw
+WHOW GAMES GMBH,whow games gmbh,DE,DACH,43810878.97,10084544.29,2024,48,6209,Private,False,,Orbis,raw
+PROSTEP AG,prostep ag,DE,DACH,43749347.85,1425370.69,2024,314,6209,Private,False,,Orbis,raw
+WUESTENROT TECHNOLOGY GMBH,wuestenrot technology gmbh,AT,DACH,43745619.550000004,4791503.109999999,2024,179,6202,Private,False,,Orbis,raw
+VISTEON ELECTRONICS GERMANY GMBH,visteon electronics germany gmbh,DE,DACH,43712904.229,2267168.53,2024,135,6201,Private,False,,Orbis,raw
+CAS SOFTWARE AG,cas software ag,DE,DACH,43610385.72,4331072.37,2024,376,6201,Private,False,,Orbis,raw
+KOLIBRI GAMES GMBH,kolibri games gmbh,DE,DACH,41748244.830000006,1290967.6500000001,2024,124,6201,Private,False,,Orbis,raw
+BHS BAD HOMBURGER SERVICEGESELLSCHAFT MBH,bhs bad homburger servicegesellschaft mbh,DE,DACH,39984963.18,8357499.369999999,2024,255,6201,Private,False,,Orbis,raw
+MWINGZ,mwingz,BE,Benelux,43086671.0,3317295.0,2024,103,6209,Private,False,,Orbis,raw
+ADOBE SYSTEMS ENGINEERING GMBH,adobe systems engineering gmbh,DE,DACH,42303452.0,4610618.0,2024,222,6201,Private,False,,Orbis,raw
+PDV GMBH,pdv gmbh,DE,DACH,41768905.59,9399434.83,2022,265,6201,Private,False,,Orbis,raw
+IT-CONSULT HALLE GMBH,it consult halle gmbh,DE,DACH,42592015.11,2055000.56,2024,279,6209,Private,False,,Orbis,raw
+ORDERYOYO A/S,orderyoyo a s,DK,Denmark,42557258.8279198,6652826.91984527,2024,209,6201,Private,False,,Orbis,raw
+FERRANTI COMPUTER SYSTEMS,ferranti computer systems,BE,Benelux,42425693.0,8463685.0,2024,205,4666,Private,False,,Orbis,raw
+KIWI CONSULTING EDV-BERATUNG GMBH,kiwi consulting edv beratung gmbh,DE,DACH,37477312.76,5547231.3100000005,2025,14,6202,Private,False,,Orbis,raw
+SOA PEOPLE,soa people,BE,Benelux,42035829.0,4581043.0,2024,148,6202,Private,False,,Orbis,raw
+PLUTO TV EUROPE GMBH,pluto tv europe gmbh,DE,DACH,41838557.13,1193522.27,2024,29,6209,Private,False,,Orbis,raw
+ELMOS,elmos,BE,Benelux,41737160.0,2239611.0,2024,102,5829,Private,False,,Orbis,raw
+JUNGHEINRICH SYSTEMLOESUNGEN GMBH,jungheinrich systemloesungen gmbh,AT,DACH,41644596.21,2856397.29,2024,270,6209,Private,False,,Orbis,raw
+APPVESTOR APS,appvestor aps,DK,Denmark,36794999.9999957,5480999.99993814,2025,90,6201,Private,False,,Orbis,raw
+KOLLAB A/S,kollab a s,DK,Denmark,36516697.4185452,2195615.73283245,2025,127,6209,Private,False,,Orbis,raw
+MVTEC SOFTWARE GMBH,mvtec software gmbh,DE,DACH,40884024.49,6381618.92,2024,266,6201,Private,False,,Orbis,raw
+RIZING GERMANY GMBH,rizing germany gmbh,DE,DACH,38786622.74,2380737.74,2024,54,6202,Private,False,,Orbis,raw
+THALES CYBER SOLUTIONS LUXEMBOURG S.A.,thales cyber solutions luxembourg s a,LU,Benelux,40354653.0,4481132.0,2024,n.v.,6201,Private,False,,Orbis,raw
+INSCALE A/S,inscale a s,DK,Denmark,40309374.4095614,1339216.79453548,2024,671,6202,Private,False,,Orbis,raw
+INFEUROPE,infeurope,LU,Benelux,35355067.0,2017151.0,2025,n.v.,6201,Private,False,,Orbis,raw
+APPSFACTORY GMBH,appsfactory gmbh,DE,DACH,39954848.81,3326979.37,2024,373,6201,Private,False,,Orbis,raw
+STEINBERG MEDIA TECHNOLOGIES GMBH,steinberg media technologies gmbh,DE,DACH,38324027.84,4813659.109999999,2024,n.v.,6201,Private,False,,Orbis,raw
+"DVSE GESELLSCHAFT FUER DATENVERARBEITUNG, SERVICE & ENTWICKLUNG MBH",dvse gesellschaft fuer datenverarbeitung service entwicklung mbh,DE,DACH,39830002.13,2508199.71,2024,190,6209,Private,False,,Orbis,raw
+ON-GEO GMBH,on geo gmbh,DE,DACH,39634480.68,7444363.91,2024,177,6209,Private,False,,Orbis,raw
+CENTRIC BELGIUM,centric belgium,BE,Benelux,39589308.0,1927235.0,2024,174,6202,Private,False,,Orbis,raw
+XERVICES GMBH,xervices gmbh,DE,DACH,39279368.86,3189515.9,2024,3,6201,Private,False,,Orbis,raw
+ITAC SOFTWARE AG,itac software ag,DE,DACH,38543595.44,6642674.21,2024,122,6201,Private,False,,Orbis,raw
+DOUBLESLASH NET-BUSINESS GMBH,doubleslash net business gmbh,DE,DACH,35734708.57,2590779.67,2024,213,6201,Private,False,,Orbis,raw
+ACA IT - SOLUTIONS,aca it solutions,BE,Benelux,38116444.0,1410527.0,2024,147,4651,Private,False,,Orbis,raw
+CHECK POINT SOFTWARE TECHNOLOGIES GMBH,check point software technologies gmbh,DE,DACH,38013473.160000004,1874437.85,2024,194,6201,Private,False,,Orbis,raw
+HSH SOFT- UND HARDWARE VERTRIEBS GMBH,hsh soft und hardware vertriebs gmbh,DE,DACH,35626785.93,11032823.11,2023,247,6202,Private,False,,Orbis,raw
+IPG AUTOMOTIVE GMBH,ipg automotive gmbh,DE,DACH,37879460.09,2418530.84,2024,265,6201,Private,False,,Orbis,raw
+DYNAMORE GESELLSCHAFT FUER FEM INGENIEURDIENSTLEISTUNGEN MBH,dynamore gesellschaft fuer fem ingenieurdienstleistungen mbh,DE,DACH,37840770.0,6146771.67,2024,63,6201,Private,False,,Orbis,raw
+ECKD GMBH,eckd gmbh,DE,DACH,37547510.11,4382412.75,2024,293,6202,Private,False,,Orbis,raw
+ING. PUNZENBERGER COPA-DATA GMBH,ing punzenberger copa data gmbh,AT,DACH,37437715.660000004,8095447.41,2024,182,6201,Private,False,,Orbis,raw
+AD ULTIMA,ad ultima,BE,Benelux,37407345.0,3086045.0,2024,103,4651,Private,False,,Orbis,raw
+AMADEUS BENELUX,amadeus benelux,BE,Benelux,37327327.0,3071778.0,2024,100,6201,Private,False,,Orbis,raw
+GRUEN SOFTWARE GROUP GMBH,gruen software group gmbh,DE,DACH,37279911.46,6800433.53,2024,311,6201,Private,False,,Orbis,raw
+FIT IT,fit it,BE,Benelux,37244845.0,2827129.0,2024,137,6201,Private,False,,Orbis,raw
+ORISE DIGITAL GMBH,orise digital gmbh,DE,DACH,35604221.92,4064087.09,2024,161,6202,Private,False,,Orbis,raw
+E-BO ENTERPRISES,e bo enterprises,BE,Benelux,37056392.0,6948541.0,2024,95,6201,Private,False,,Orbis,raw
+AMADEUS LEISURE IT GMBH,amadeus leisure it gmbh,DE,DACH,37028144.11,7816099.8,2024,226,6201,Private,False,,Orbis,raw
+PITS,pits,BE,Benelux,36729849.0,3040066.0,2024,104,2611,Private,False,,Orbis,raw
+DEVOTEAM TECHNOLOGY CONSULTING A/S,devoteam technology consulting a s,DK,Denmark,36513130.0627251,1591212.70978819,2024,105,6202,Private,False,,Orbis,raw
+SCHINDLER DIGITAL INNOVATION GMBH,schindler digital innovation gmbh,DE,DACH,36402386.63,4283527.47,2024,159,6209,Private,False,,Orbis,raw
+ORGADATA SOFTWARE- DIENSTLEISTUNGEN AKTIENGESELLSCHAFT,orgadata software dienstleistungen aktiengesellschaft,DE,DACH,36175843.09,2083897.82,2024,322,6201,Private,False,,Orbis,raw
+ALISTAR BELGIE,alistar belgie,BE,Benelux,31839624.0,4306756.0,2025,138,6202,Private,False,,Orbis,raw
+SPOTIT,spotit,BE,Benelux,31804154.0,1640678.0,2025,65,6202,Private,False,,Orbis,raw
+SYSKOPLAN REPLY GMBH,syskoplan reply gmbh,DE,DACH,35944119.63,2496969.759,2024,216,6209,Private,False,,Orbis,raw
+GUIDECOM AG,guidecom ag,DE,DACH,35866005.24,2329051.41,2024,249,6201,Private,False,,Orbis,raw
+ABBYY EUROPE GMBH,abbyy europe gmbh,DE,DACH,35811061.5,2581914.75,2024,72,6201,Private,False,,Orbis,raw
+AVIOVISION,aviovision,BE,Benelux,35771290.0,4396657.0,2024,88,6201,Private,False,,Orbis,raw
+GAF AG,gaf ag,DE,DACH,35586221.74,2957560.07,2024,215,6209,Private,False,,Orbis,raw
+RAY SONO GMBH,ray sono gmbh,DE,DACH,33010993.450000003,2837408.8000000003,2024,241,6202,Private,False,,Orbis,raw
+DIGITAL REALTY DENMARK APS,digital realty denmark aps,DK,Denmark,35218652.649935,9766121.90919456,2024,50,6209,Private,False,,Orbis,raw
+BRASSERIE CAULIER,brasserie caulier,BE,Benelux,31115886.0,8155581.0,2025,74,1101,Private,False,,Orbis,raw
+TOMTOMBELGIUM,tomtombelgium,BE,Benelux,35131607.0,1891300.0,2024,177,6201,Private,False,,Orbis,raw
+HIS HOCHSCHUL-INFORMATIONS-SYSTEM EG,his hochschul informations system eg,DE,DACH,35086830.199999996,2920046.23,2024,356,6209,Private,False,,Orbis,raw
+CIRCET PROJECTS,circet projects,BE,Benelux,35073557.0,1391259.0,2024,88,4329,Private,False,,Orbis,raw
+BLUECRUX,bluecrux,BE,Benelux,34579287.0,8966585.0,2024,76,6202,Private,False,,Orbis,raw
+SYSTEMATIC GMBH,systematic gmbh,DE,DACH,32030765.33,2523286.74,2024,22,6209,Private,False,,Orbis,raw
+SCOPEVISIO AG,scopevisio ag,DE,DACH,34484828.78,4112124.71,2024,292,6201,Private,False,,Orbis,raw
+FIS SYSTEME GMBH,fis systeme gmbh,DE,DACH,34413185.89,2007260.54,2024,148,6202,Private,False,,Orbis,raw
+GDMCOM GMBH,gdmcom gmbh,DE,DACH,34412464.809999995,4059921.8000000003,2024,177,6209,Private,False,,Orbis,raw
+JUNIPER NETWORKS GMBH,juniper networks gmbh,DE,DACH,34287280.0,1720671.0,2024,148,6209,Private,False,,Orbis,raw
+GLUECKKANJA AG,glueckkanja ag,DE,DACH,34259993.47,5497245.93,2024,161,6202,Private,False,,Orbis,raw
+TERADATA GMBH,teradata gmbh,DE,DACH,34231515.78,6115681.18,2024,98,6202,Private,False,,Orbis,raw
+ORISE,orise,BE,Benelux,32867898.0,2363617.0,2024,167,4740,Private,False,,Orbis,raw
+BEAULIEU ICT,beaulieu ict,BE,Benelux,33953295.0,4492818.0,2024,50,4651,Private,False,,Orbis,raw
+ST SPORTSERVICE GMBH,st sportservice gmbh,DE,DACH,33948852.160000004,3520718.19,2024,183,6209,Private,False,,Orbis,raw
+OBJECTWAY GMBH,objectway gmbh,DE,DACH,30039310.5,6252504.649999999,2025,126,6209,Private,False,,Orbis,raw
+VAIVA GMBH,vaiva gmbh,DE,DACH,33821064.830000006,1486504.75,2024,225,6201,Private,False,,Orbis,raw
+USG PROFESSIONALS,usg professionals,BE,Benelux,33812938.0,2242745.0,2024,158,6201,Private,False,,Orbis,raw
+STP INFORMATIONSTECHNOLOGIE GMBH,stp informationstechnologie gmbh,DE,DACH,33584349.0,8909904.0,2024,103,6202,Private,False,,Orbis,raw
+INSPARI A/S,inspari a s,DK,Denmark,29276885.970745,3455592.91065228,2025,142,6202,Private,False,,Orbis,raw
+P/F FORMULA,p f formula,DK,Denmark,29133539.2849111,3988788.99440804,2025,94,6202,Private,False,,Orbis,raw
+BANQUP SOLUTIONS,banqup solutions,BE,Benelux,32918333.0,3411730.0,2024,36,6209,Private,False,,Orbis,raw
+SAGE GMBH,sage gmbh,AT,DACH,29097378.349999998,5547159.8100000005,2025,n.v.,6201,Private,False,,Orbis,raw
+GOTO TECHNOLOGIES GERMANY GMBH,goto technologies germany gmbh,DE,DACH,32852324.73,2429423.39,2024,198,6201,Private,False,,Orbis,raw
+"PROMOS CONSULT PROJEKTMANAGEMENT, ORGANISATION UND SERVICE GMBH",promos consult projektmanagement organisation und service gmbh,DE,DACH,32713099.17,1335369.25,2024,222,6201,Private,False,,Orbis,raw
+WAVENET,wavenet,BE,Benelux,32600850.0,9010188.0,2024,166,6202,Private,False,,Orbis,raw
+PAIR FINANCE GMBH,pair finance gmbh,DE,DACH,30644352.4,5094892.359999999,2023,166,6209,Private,False,,Orbis,raw
+RISER ID SERVICES GMBH,riser id services gmbh,DE,DACH,32506585.71,4107248.5100000002,2024,23,6209,Private,False,,Orbis,raw
+ABAKION A/S,abakion a s,DK,Denmark,29486394.500102498,2049296.64562573,2025,178,6202,Private,False,,Orbis,raw
+N+P INFORMATIONSSYSTEME GMBH,n p informationssysteme gmbh,DE,DACH,28711513.99,2004908.17,2025,189,6202,Private,False,,Orbis,raw
+NETCOMPANY SA,netcompany sa,BE,Benelux,32288896.0,1462001.0,2024,324,6201,Private,False,,Orbis,raw
+XYLOS,xylos,BE,Benelux,32273330.0,1119907.0,2024,127,6201,Private,False,,Orbis,raw
+CONSIST SOFTWARE SOLUTIONS GMBH,consist software solutions gmbh,DE,DACH,32059135.78,3384743.05,2024,214,6201,Private,False,,Orbis,raw
+HMS INDUSTRIAL NETWORKS,hms industrial networks,BE,Benelux,31865125.0,8351806.000000001,2024,74,2630,Private,False,,Orbis,raw
+MICROVISION GMBH,microvision gmbh,DE,DACH,31813797.05,2977584.25,2024,166,6201,Private,False,,Orbis,raw
+CIRCULAR INFORMATIONSSYSTEME GMBH,circular informationssysteme gmbh,DE,DACH,31798740.549999997,2149797.0999999996,2024,49,6209,Private,False,,Orbis,raw
+NTX,ntx,BE,Benelux,31750970.0,2774105.0,2024,92,6202,Private,False,,Orbis,raw
+AVIRA OPERATIONS GMBH,avira operations gmbh,DE,DACH,31750722.0,2234916.0,2024,130,6201,Private,False,,Orbis,raw
+NEORIA,neoria,BE,Benelux,31542344.0,2443312.0,2024,19,6202,Private,False,,Orbis,raw
+"OTT HYDROMET GMBH, ZWEIGNIEDERLASSUNG OESTERREICH",ott hydromet gmbh zweigniederlassung oesterreich,AT,DACH,29641529.25,4118345.15,2023,n.v.,6209,Private,False,,Orbis,raw
+CEPHEID BENELUX,cepheid benelux,BE,Benelux,31509646.0,2529645.0,2024,13,2630,Private,False,,Orbis,raw
+VIMCAR GMBH,vimcar gmbh,DE,DACH,29571914.27,5212892.8100000005,2023,184,6201,Private,False,,Orbis,raw
+ENERGY4U GMBH,energy4u gmbh,DE,DACH,29571094.26,3492241.0300000003,2023,173,6202,Private,False,,Orbis,raw
+GOVERNIKUS GMBH & CO. KG,governikus gmbh co kg,DE,DACH,31430005.01,1480574.42,2024,251,6201,Private,False,,Orbis,raw
+SAMHAMMER AG,samhammer ag,DE,DACH,31337667.849,2438892.9,2024,528,6201,Private,False,,Orbis,raw
+BOERSE STUTTGART DIGITAL BROKER GMBH,boerse stuttgart digital broker gmbh,DE,DACH,31252000.91,10710516.05,2024,59,6201,Private,False,,Orbis,raw
+BDOT BLUE INFRASTRUCTURE (GERMANY) GMBH,bdot blue infrastructure germany gmbh,DE,DACH,31244618.65,12021609.76,2024,n.v.,6209,Private,False,,Orbis,raw
+JTL-SOFTWARE-GMBH,jtl software gmbh,DE,DACH,29170590.990000002,11733023.41,2023,206,6201,Private,False,,Orbis,raw
+HAIILO GMBH,haiilo gmbh,DE,DACH,30932929.39,1746560.6199999999,2024,123,6201,Private,False,,Orbis,raw
+DRESDEN-IT GMBH,dresden it gmbh,DE,DACH,30346494.14,2315072.7600000002,2024,122,6209,Private,False,,Orbis,raw
+WAVE,wave,BE,Benelux,30303984.0,11816720.0,2024,n.v.,6202,Private,False,,Orbis,raw
+AXWAY GMBH,axway gmbh,DE,DACH,30199026.580000002,2251248.2890000003,2024,21,6201,Private,False,,Orbis,raw
+HMMH MULTIMEDIAHAUS AG,hmmh multimediahaus ag,DE,DACH,29282185.119999997,2423657.9299999997,2024,265,6201,Private,False,,Orbis,raw
+TIPICO TECHNOLOGY SERVICES GMBH,tipico technology services gmbh,DE,DACH,30169129.36,4280319.16,2024,175,6201,Private,False,,Orbis,raw
+PROXIMEDIA,proximedia,BE,Benelux,30148685.0,5626697.0,2024,187,4666,Private,False,,Orbis,raw
+COCONET AG,coconet ag,DE,DACH,30081113.05,7717587.29,2024,176,6201,Private,False,,Orbis,raw
+APA-IT INFORMATIONS TECHNOLOGIE GMBH,apa it informations technologie gmbh,AT,DACH,30001400.71,3007152.18,2024,132,6209,Private,False,,Orbis,raw
+RSU GMBH & CO. KG,rsu gmbh co kg,DE,DACH,29951891.47,3974938.95,2024,126,6201,Private,False,,Orbis,raw
+PLENUM AG,plenum ag,DE,DACH,29787000.0,3090000.0,2024,168,6209,Public,False,,Orbis,raw
+UBER DENMARK SOFTWARE AND DEVELOPMENT APS,uber denmark software and development aps,DK,Denmark,29703984.8211188,2263246.7361867004,2024,130,6201,Private,False,,Orbis,raw
+IVU INFORMATIONSSYSTEME GMBH,ivu informationssysteme gmbh,DE,DACH,29603573.53,4209852.9399999995,2024,111,6201,Private,False,,Orbis,raw
+OPENWAY EUROPE,openway europe,BE,Benelux,29286956.0,1051339.0,2024,41,6201,Private,False,,Orbis,raw
+SOA PEOPLE A/S,soa people a s,DK,Denmark,29195276.489525698,2913450.10040825,2024,103,6202,Private,False,,Orbis,raw
+NORDCLOUD DEUTSCHLAND GMBH,nordcloud deutschland gmbh,DE,DACH,29182816.53,2172686.9499999997,2024,138,6209,Private,False,,Orbis,raw
+ALL FOR ONE PUBLICCLOUDERP GMBH,all for one publicclouderp gmbh,DE,DACH,25756540.71,1706038.81,2025,98,6202,Private,False,,Orbis,raw
+ARKANCE SYSTEMS BENELUX,arkance systems benelux,BE,Benelux,28996048.0,2194564.0,2024,51,6201,Private,False,,Orbis,raw
+PERBILITY GMBH,perbility gmbh,DE,DACH,28940560.900000002,9003810.35,2024,8,6202,Private,False,,Orbis,raw
+LACROIX SAE GMBH & CO. KG,lacroix sae gmbh co kg,DE,DACH,28919279.58,3058874.77,2024,117,6201,Private,False,,Orbis,raw
+EMPOLIS INFORMATION MANAGEMENT GMBH,empolis information management gmbh,DE,DACH,27756530.650000002,7323896.069999999,2024,166,6201,Private,False,,Orbis,raw
+MAINSYS GROUP,mainsys group,BE,Benelux,28859809.0,2684973.0,2024,169,6202,Private,False,,Orbis,raw
+"UKSH GESELLSCHAFT FUER INFORMATIONSTECHNOLOGIE MBH (""GFIT"")",uksh gesellschaft fuer informationstechnologie mbh gfit,DE,DACH,28859426.830000002,1288306.11,2024,3,6209,Private,False,,Orbis,raw
+R2P GMBH,r2p gmbh,DE,DACH,27114048.53,3266808.43,2023,70,6201,Private,False,,Orbis,raw
+PAYOLUTION GMBH,payolution gmbh,AT,DACH,28319155.36,2414340.3600000003,2024,45,6209,Private,False,,Orbis,raw
+ATTENTIA,attentia,BE,Benelux,28231297.0,1567541.0,2024,119,6202,Private,False,,Orbis,raw
+ALPEGA,alpega,BE,Benelux,28225412.0,11015692.0,2024,25,6201,Private,False,,Orbis,raw
+ROCKWELL AUTOMATION SOLUTIONS GMBH,rockwell automation solutions gmbh,DE,DACH,26165547.51,2352078.43,2024,58,6201,Private,False,,Orbis,raw
+ADASTRA GMBH,adastra gmbh,DE,DACH,26398154.93,3085823.19,2023,152,6202,Private,False,,Orbis,raw
+TEADS DEUTSCHLAND GMBH,teads deutschland gmbh,DE,DACH,27953013.62,2603292.14,2024,102,6209,Private,False,,Orbis,raw
+"HALIAN, S.A R.L.",halian s a r l,LU,Benelux,26737531.0,1229963.0,2024,n.v.,6201,Private,False,,Orbis,raw
+CGI BELGIUM,cgi belgium,BE,Benelux,24479195.0,1174855.0,2025,119,6202,Private,False,,Orbis,raw
+ZUKEN E3 GMBH,zuken e3 gmbh,DE,DACH,26476043.09,4371065.64,2024,132,6201,Private,False,,Orbis,raw
+NETCOLOGNE IT SERVICES GMBH,netcologne it services gmbh,DE,DACH,27546315.310000002,5770707.58,2024,164,6209,Private,False,,Orbis,raw
+MATECO BELGIUM,mateco belgium,BE,Benelux,27447846.0,5433779.0,2024,68,4651,Private,False,,Orbis,raw
+GENESIS CONSULT,genesis consult,BE,Benelux,27169416.0,3064082.0,2024,57,6202,Private,False,,Orbis,raw
+V-IT,v it,BE,Benelux,27166291.0,1244190.0,2024,6,6202,Private,False,,Orbis,raw
+LIZY BELGIUM,lizy belgium,BE,Benelux,27056523.0,9100851.0,2024,25,6201,Private,False,,Orbis,raw
+SIEMENS INDUSTRY SOFTWARE A/S,siemens industry software a s,DK,Denmark,23905783.960107602,1158751.6811237098,2025,29,6202,Private,False,,Orbis,raw
+LENOVO GLOBAL TECHNOLOGY BELGIUM,lenovo global technology belgium,BE,Benelux,25838395.0,1008675.0,2024,8,4650,Private,False,,Orbis,raw
+LOGICALIS CONNECTED GMBH,logicalis connected gmbh,DE,DACH,26832334.7,1209652.3,2024,152,6202,Private,False,,Orbis,raw
+ASC TECHNOLOGIES AKTIENGESELLSCHAFT,asc technologies aktiengesellschaft,DE,DACH,26882239.43,2323269.1799999997,2024,125,6201,Private,False,,Orbis,raw
+ITP AGENCY,itp agency,BE,Benelux,23704764.0,2383561.0,2025,124,6201,Private,False,,Orbis,raw
+NEXT LAYER TELEKOMMUNIKATIONSDIENSTLEISTUNGS- UND BERATUNGS GMBH,next layer telekommunikationsdienstleistungs und beratungs gmbh,AT,DACH,26746626.47,7533626.63,2024,66,6209,Private,False,,Orbis,raw
+SALESFIVE GMBH,salesfive gmbh,DE,DACH,26704029.490000002,1572074.35,2024,207,6209,Private,False,,Orbis,raw
+VOLUME GRAPHICS GMBH,volume graphics gmbh,DE,DACH,25962076.23,8242979.26,2022,143,6201,Private,False,,Orbis,raw
+SNAP TECHNOLOGY GMBH,snap technology gmbh,AT,DACH,26642964.89,4255127.99,2024,55,6201,Private,False,,Orbis,raw
+GUARDSQUARE,guardsquare,BE,Benelux,26369953.0,4571853.0,2024,109,6202,Private,False,,Orbis,raw
+MEDIZORG,medizorg,BE,Benelux,24045655.0,9887566.0,2025,24,6209,Private,False,,Orbis,raw
+RED HAT,red hat,BE,Benelux,26237995.0,1690327.0,2024,65,6201,Private,False,,Orbis,raw
+"ORBYT DANMARK, FILIAL AF ORBYT AS, NORGE",orbyt danmark filial af orbyt as norge,DK,Denmark,26232093.5022677,3702494.3362661703,2024,n.v.,6202,Private,False,,Orbis,raw
+DENKWERK GMBH,denkwerk gmbh,DE,DACH,25164420.29,2597566.37,2024,228,6202,Private,False,,Orbis,raw
+SOCIETE WALLONNE DU LOGEMENT,societe wallonne du logement,BE,Benelux,26111000.0,7130000.0,2024,205,6202,Private,False,,Orbis,raw
+QOGNIFY GMBH,qognify gmbh,DE,DACH,26104859.05,8564615.13,2024,76,6201,Private,False,,Orbis,raw
+PINGALA A/S,pingala a s,DK,Denmark,23072650.5336139,3417659.1455794103,2025,110,6202,Private,False,,Orbis,raw
+CARYA GROUP,carya group,BE,Benelux,25739271.0,3266107.0,2024,83,6202,Private,False,,Orbis,raw
+HEINZE GMBH,heinze gmbh,DE,DACH,24196327.36,2096968.3599999999,2023,178,6209,Private,False,,Orbis,raw
+GEODYNAMICS,geodynamics,BE,Benelux,22563923.0,12171616.0,2025,51,6201,Private,False,,Orbis,raw
+PROCAD GMBH & CO. KG,procad gmbh co kg,DE,DACH,23990632.84,2390065.2100000004,2023,111,6201,Private,False,,Orbis,raw
+DAVINSI LABS,davinsi labs,BE,Benelux,25492996.0,4405804.0,2024,47,6201,Private,False,,Orbis,raw
+MEDICIM,medicim,BE,Benelux,25454976.0,8672778.0,2024,112,6201,Private,False,,Orbis,raw
+ZENDESK APS,zendesk aps,DK,Denmark,25437842.2087819,2434118.83273238,2024,111,6201,Private,False,,Orbis,raw
+SERVICENOW BELGIUM,servicenow belgium,BE,Benelux,25363493.0,1311753.0,2024,61,6201,Private,False,,Orbis,raw
+IRON MOUNTAIN (DEUTSCHLAND) DATA CENTRE 2 GMBH,iron mountain deutschland data centre 2 gmbh,DE,DACH,25339493.020000003,5627674.86,2024,27,6209,Private,False,,Orbis,raw
+COMFORTE AG,comforte ag,DE,DACH,22385453.78,1313820.98,2025,84,6201,Private,False,,Orbis,raw
+SANDAY B.V.,sanday b v,NL,Benelux,25212472.0,2468236.0,2024,146,6202,Private,False,,Orbis,raw
+WEISS IT SOLUTIONS GMBH,weiss it solutions gmbh,DE,DACH,26867100.29,4115237.7800000003,2022,285,6209,Private,False,,Orbis,raw
+TAIFUN SOFTWARE GMBH,taifun software gmbh,DE,DACH,25077997.09,3360666.85,2024,161,6201,Private,False,,Orbis,raw
+SAGE BAEURER GMBH,sage baeurer gmbh,DE,DACH,23229019.9,4148302.9299999997,2024,87,6201,Private,False,,Orbis,raw
+ELECTRONIC ARTS GMBH,electronic arts gmbh,DE,DACH,23921084.82,1333462.2489999998,2024,145,6209,Private,False,,Orbis,raw
+ON CLOUD SERVICE GMBH,on cloud service gmbh,DE,DACH,23370875.650000002,2483955.23,2023,265,6209,Private,False,,Orbis,raw
+EUROPAEISCHES MICROSOFT INNOVATIONS CENTER GMBH,europaeisches microsoft innovations center gmbh,DE,DACH,23920384.21,1851785.7,2024,102,6201,Private,False,,Orbis,raw
+EUROPEAN IT CONSULTANCY EITCO GMBH,european it consultancy eitco gmbh,DE,DACH,24567501.04,3535244.6599999997,2024,181,6209,Private,False,,Orbis,raw
+CASEWARE GERMANY GMBH,caseware germany gmbh,DE,DACH,22419951.990000002,4100196.4799999995,2025,103,6201,Private,False,,Orbis,raw
+CVATION A/S,cvation a s,DK,Denmark,21467304.9389715,5743915.09824829,2025,109,6201,Private,False,,Orbis,raw
+SMARKETER GMBH,smarketer gmbh,DE,DACH,22738981.970000003,2281172.75,2023,159,6202,Private,False,,Orbis,raw
+BLUE YONDER GMBH,blue yonder gmbh,DE,DACH,24067142.9,2344003.1,2024,160,6201,Private,False,,Orbis,raw
+TRUSTTEAM WALLONIE,trustteam wallonie,BE,Benelux,24043813.0,1316086.0,2024,57,6201,Private,False,,Orbis,raw
+GETRONICS GERMANY GMBH,getronics germany gmbh,DE,DACH,23967291.75,1398453.78,2024,94,6209,Private,False,,Orbis,raw
+PLAYPASS,playpass,BE,Benelux,23836408.0,2087920.0,2024,8,6201,Private,False,,Orbis,raw
+WEBFLEET SOLUTIONS DEVELOPMENT GERMANY GMBH,webfleet solutions development germany gmbh,DE,DACH,23624039.16,4104988.09,2024,162,6202,Private,False,,Orbis,raw
+UMBRACO A/S,umbraco a s,DK,Denmark,20824999.999867503,3112999.99986607,2025,105,6201,Private,False,,Orbis,raw
+IT-PLANET,it planet,BE,Benelux,23493466.0,1376312.0,2024,38,6202,Private,False,,Orbis,raw
+INASYS GESELLSCHAFT FUER INFORMATIONS- UND ANALYSE- SYSTEME MBH,inasys gesellschaft fuer informations und analyse systeme mbh,DE,DACH,21485253.06,2987143.36,2024,105,6201,Private,False,,Orbis,raw
+DELTEK DANMARK A/S,deltek danmark a s,DK,Denmark,23098188.1549757,1926623.31570475,2024,120,6202,Private,False,,Orbis,raw
+M&M SOFTWARE GMBH,m m software gmbh,DE,DACH,23042421.19,2850515.81,2024,156,6201,Private,False,,Orbis,raw
+TOTALENERGIES BELGIUM SERVICES,totalenergies belgium services,BE,Benelux,22855816.0,1019379.0,2024,30,6202,Private,False,,Orbis,raw
+KEYRUS,keyrus,BE,Benelux,22770893.0,1353218.0,2024,102,6201,Private,False,,Orbis,raw
+FUNKTEL GMBH,funktel gmbh,DE,DACH,22736119.56,2315403.7600000002,2024,115,6201,Private,False,,Orbis,raw
+LIVE REPLY GMBH,live reply gmbh,DE,DACH,22644881.18,1857656.96,2024,99,6202,Private,False,,Orbis,raw
+AKQA DENMARK A/S,akqa denmark a s,DK,Denmark,22629772.2183884,2875448.5773594403,2024,133,6202,Private,False,,Orbis,raw
+KEYWARE TECHNOLOGIES N.V.,keyware technologies n v,BE,Benelux,19929000.0,3874000.0,2025,43,6209,Public,False,,Orbis,raw
+Q.BEYOND LOGINEER GMBH,q beyond logineer gmbh,DE,DACH,22535131.369999997,2283599.01,2024,60,6209,Private,False,,Orbis,raw
+PRICE F(X) AG,price f x ag,DE,DACH,22505496.62,2099524.16,2024,n.v.,6201,Private,False,,Orbis,raw
+CERENCE,cerence,BE,Benelux,22067586.0,5639939.0,2023,78,6201,Private,False,,Orbis,raw
+WORLD-DIRECT EBUSINESS SOLUTIONS GESELLSCHAFT M.B.H.,world direct ebusiness solutions gesellschaft m b h,AT,DACH,22468814.689999998,1996881.69,2024,140,6209,Private,False,,Orbis,raw
+ONVENTIS GMBH,onventis gmbh,DE,DACH,22465983.520000003,5886617.36,2024,86,6201,Private,False,,Orbis,raw
+DYNAMATE,dynamate,BE,Benelux,22392178.0,7983716.0,2024,53,6201,Private,False,,Orbis,raw
+H. ESSERS DIGITAL COMPANY,h essers digital company,BE,Benelux,22389034.0,5920625.0,2024,161,6201,Private,False,,Orbis,raw
+SITECORE BELGIUM,sitecore belgium,BE,Benelux,19771655.0,5832404.0,2025,77,6201,Private,False,,Orbis,raw
+CREAM CONSULTING,cream consulting,BE,Benelux,22298456.0,3313485.0,2024,99,6202,Private,False,,Orbis,raw
+OPTIMAL SYSTEMS VERTRIEBSGESELLSCHAFT MBH HANNOVER,optimal systems vertriebsgesellschaft mbh hannover,DE,DACH,21407233.619999997,5256764.83,2023,100,6202,Private,False,,Orbis,raw
+PEAKWORK GMBH,peakwork gmbh,DE,DACH,22203686.14,6881168.08,2024,107,6201,Private,False,,Orbis,raw
+GRAITEC INNOVATION GMBH,graitec innovation gmbh,DE,DACH,22173675.95,1261119.11,2024,42,6201,Private,False,,Orbis,raw
+CARAT GESELLSCHAFT FUER ORGANISATION UND SOFTWAREENTWICKLUNG MBH,carat gesellschaft fuer organisation und softwareentwicklung mbh,DE,DACH,22119766.69,1675448.21,2024,112,6201,Private,False,,Orbis,raw
+TIETO GERMANY GMBH,tieto germany gmbh,DE,DACH,22112379.150000002,3810307.7800000003,2024,97,6209,Private,False,,Orbis,raw
+LUCIAD,luciad,BE,Benelux,22111906.0,9993905.0,2024,69,6201,Private,False,,Orbis,raw
+PROMATIS SOFTWARE GMBH,promatis software gmbh,DE,DACH,22105810.38,1388366.52,2024,181,6201,Private,False,,Orbis,raw
+CERDIA SERVICES GMBH,cerdia services gmbh,DE,DACH,22071921.669999998,1868255.88,2024,129,6209,Private,False,,Orbis,raw
+FOTOFINDER SYSTEMS GMBH,fotofinder systems gmbh,DE,DACH,22067552.41,3730969.7,2024,99,6201,Private,False,,Orbis,raw
+COMPUSOFT DEUTSCHLAND AG,compusoft deutschland ag,DE,DACH,21441394.68,1252822.83,2022,131,6201,Private,False,,Orbis,raw
+PROALPHA SOFTWARE AUSTRIA GMBH,proalpha software austria gmbh,AT,DACH,21038946.759999998,1464022.6199999999,2024,66,6209,Private,False,,Orbis,raw
+ONLINECITY.IO APS,onlinecity io aps,DK,Denmark,21715175.2789124,1341103.39497053,2024,30,6201,Private,False,,Orbis,raw
+BESTMIX SOFTWARE,bestmix software,BE,Benelux,21680008.0,1473993.0,2024,94,4650,Private,False,,Orbis,raw
+MSU SOLUTIONS GMBH,msu solutions gmbh,DE,DACH,21600022.61,2364426.08,2024,121,6201,Private,False,,Orbis,raw
+PHITURE GMBH,phiture gmbh,DE,DACH,21596613.66,2759794.07,2024,63,6201,Private,False,,Orbis,raw
+TEMENOS LUXEMBOURG S.A.,temenos luxembourg s a,LU,Benelux,21508436.0,3128063.0,2024,n.v.,6202,Private,False,,Orbis,raw
+DESCARTES SYSTEMS (BELGIUM),descartes systems belgium,BE,Benelux,21493234.0,1949891.0,2024,58,6201,Private,False,,Orbis,raw
+VANAS ENGINEERING,vanas engineering,BE,Benelux,21400709.0,1783788.0,2024,54,4669,Private,False,,Orbis,raw
+J. H. SCHULTZ INFORMATION A/S,j h schultz information a s,DK,Denmark,21333408.2051632,2919783.6875830498,2024,125,6201,Private,False,,Orbis,raw
+GE HEALTHCARE INFORMATION TECHNOLOGIES GMBH & CO. KG,ge healthcare information technologies gmbh co kg,DE,DACH,21292649.0,1365279.0,2024,99,6201,Private,False,,Orbis,raw
+AT & T GLOBAL NETWORK SERVICES BELGIUM LUXEMBOURG,at t global network services belgium luxembourg,BE,Benelux,21225045.0,1786332.0,2024,40,6110,Private,False,,Orbis,raw
+ISD SOFTWARE UND SYSTEME GMBH,isd software und systeme gmbh,DE,DACH,21205468.91,6148543.359999999,2024,147,6201,Private,False,,Orbis,raw
+FRESH CHEF,fresh chef,BE,Benelux,21116322.0,1880820.0,2024,42,1092,Private,False,,Orbis,raw
+SENIOR CONSULTING GMBH EDV- UND ORGANISATIONSBERATUNG,senior consulting gmbh edv und organisationsberatung,DE,DACH,20934034.049999997,1990600.2000000002,2024,2,6201,Private,False,,Orbis,raw
+AVANADE DENMARK A/S,avanade denmark a s,DK,Denmark,18616315.331067,1021415.48043651,2025,37,6202,Private,False,,Orbis,raw
+IMM ELECTRONICS GMBH,imm electronics gmbh,DE,DACH,20865049.279999997,1467938.12,2024,118,6201,Private,False,,Orbis,raw
+VOEB-SERVICE GMBH,voeb service gmbh,DE,DACH,20858315.310000002,4626691.75,2024,85,6209,Private,False,,Orbis,raw
+1STMOVERS APS,1stmovers aps,DK,Denmark,18418441.5032646,1216169.35887809,2025,33,6202,Private,False,,Orbis,raw
+CONFINITY,confinity,BE,Benelux,20789518.0,4072150.0,2024,17,6202,Private,False,,Orbis,raw
+AMARIS CONSULTING BELGIUM,amaris consulting belgium,BE,Benelux,20781973.0,1224118.0,2024,97,6202,Private,False,,Orbis,raw
+RESULT-IT,result it,BE,Benelux,20772526.0,1661926.0,2024,102,6202,Private,False,,Orbis,raw
+ARHS DEVELOPMENTS S.A.,arhs developments s a,LU,Benelux,18412827.0,1318366.0,2025,n.v.,6201,Private,False,,Orbis,raw
+BROADRIDGE (DEUTSCHLAND) GMBH,broadridge deutschland gmbh,DE,DACH,18277895.98,1834860.6600000001,2025,43,6201,Private,False,,Orbis,raw
+SAPIENS DENMARK A/S,sapiens denmark a s,DK,Denmark,20467054.3339549,12679167.738080999,2024,33,6201,Private,False,,Orbis,raw
+EPIC GAMES GERMANY GMBH,epic games germany gmbh,DE,DACH,20445018.61,1818715.79,2024,67,6201,Private,False,,Orbis,raw
+COMSYSTO REPLY GMBH,comsysto reply gmbh,DE,DACH,20429330.93,4347816.53,2024,98,6209,Private,False,,Orbis,raw
+CGI LUXEMBOURG SA,cgi luxembourg sa,LU,Benelux,18943341.0,1466030.0,2024,n.v.,6201,Private,False,,Orbis,raw
+LUMINEX LIGHTINGCONTROL EQUIPMENT,luminex lightingcontrol equipment,BE,Benelux,20408930.0,4176618.0000000005,2024,39,4664,Private,False,,Orbis,raw
+CYGNA LABS DEUTSCHLAND GMBH,cygna labs deutschland gmbh,DE,DACH,19076880.21,3854495.5799999996,2023,38,6201,Private,False,,Orbis,raw
+AUBAY,aubay,LU,Benelux,20262810.0,1808660.0,2024,n.v.,6209,Private,False,,Orbis,raw
+BENE RAIL INTERNATIONAL,bene rail international,BE,Benelux,20178493.0,4309353.0,2024,15,2829,Private,False,,Orbis,raw
+BPC SOLUTIONS (NETHERLANDS) B.V.,bpc solutions netherlands b v,NL,Benelux,20045429.976,10251366.548,2024,35,6202,Private,False,,Orbis,raw
+SUPPLEMENTS DISTRIBUTION BVBA,supplements distribution bvba,BE,Benelux,19925280.0,1740989.0,2024,41,1086,Private,False,,Orbis,raw
+HEX-RAYS,hex rays,BE,Benelux,19907722.0,12866844.0,2024,15,6202,Private,False,,Orbis,raw
+DOXIS SOLUTIONS GMBH,doxis solutions gmbh,DE,DACH,18577424.1,1607639.79,2023,178,6209,Private,False,,Orbis,raw
+CONFLUENT GERMANY GMBH,confluent germany gmbh,DE,DACH,19754543.849999998,1007404.93,2024,86,6201,Private,False,,Orbis,raw
+HYLAND SOFTWARE GERMANY GMBH,hyland software germany gmbh,DE,DACH,19714945.31,1105864.6300000001,2024,94,6201,Private,False,,Orbis,raw
+METASYSTEMS HARD & SOFTWARE GMBH,metasystems hard software gmbh,DE,DACH,19693342.86,4839012.010000001,2024,71,6201,Private,False,,Orbis,raw
+HAULOGY.NET,haulogy net,BE,Benelux,19688748.0,1250208.0,2024,87,6202,Private,False,,Orbis,raw
+SOPROFEN BELGIUM,soprofen belgium,BE,Benelux,17420152.0,1270252.0,2025,67,2512,Private,False,,Orbis,raw
+FACTORY SOFTWARE GMBH,factory software gmbh,DE,DACH,19632004.44,2341745.38,2024,42,6201,Private,False,,Orbis,raw
+MOBILEXPENSE,mobilexpense,BE,Benelux,19608013.0,3222062.0,2024,49,6202,Private,False,,Orbis,raw
+CHECK24 VERGLEICHSPORTAL GELDANLAGE GMBH,check24 vergleichsportal geldanlage gmbh,DE,DACH,18615767.87,1140818.24,2023,1,6201,Private,False,,Orbis,raw
+HAAG-STREIT GMBH,haag streit gmbh,DE,DACH,19356831.29,4116656.76,2024,108,6201,Private,False,,Orbis,raw
+ARYZA GMBH,aryza gmbh,DE,DACH,18098143.25,3537002.96,2023,118,6209,Private,False,,Orbis,raw
+BLUECRUX INTERNATIONAL,bluecrux international,BE,Benelux,19214234.0,2661458.0,2024,69,6202,Private,False,,Orbis,raw
+DENIC EG,denic eg,DE,DACH,19176866.880000003,1298378.1300000001,2024,126,6209,Private,False,,Orbis,raw
+EASYPAY,easypay,BE,Benelux,18945608.0,1953920.0,2024,87,6201,Private,False,,Orbis,raw
+VEEPEE NORTHERN EUROPE,veepee northern europe,BE,Benelux,18944212.0,1849353.0,2024,100,4791,Private,False,,Orbis,raw
+CANVA GERMANY GMBH,canva germany gmbh,DE,DACH,18931435.79,4210659.17,2024,8,6201,Private,False,,Orbis,raw
+FIRSTCOLO GMBH,firstcolo gmbh,DE,DACH,18889950.939999998,5115120.64,2024,84,6202,Private,False,,Orbis,raw
+UI INFORMATION TECHNOLOGIES GMBH,ui information technologies gmbh,DE,DACH,17500002.32,1179185.7789999999,2024,83,6209,Private,False,,Orbis,raw
+TERUSUS,terusus,BE,Benelux,18785017.0,1447393.0,2024,21,4222,Private,False,,Orbis,raw
+SAMSUNG DENMARK RESEARCH CENTER APS,samsung denmark research center aps,DK,Denmark,16535107.195365502,2165740.67587829,2025,87,6201,Private,False,,Orbis,raw
+AVID TECHNOLOGY GMBH,avid technology gmbh,DE,DACH,17566309.990000002,1092143.65,2023,111,6201,Private,False,,Orbis,raw
+BRAINLOOP AG,brainloop ag,DE,DACH,18628202.65,3105269.56,2024,44,6201,Private,False,,Orbis,raw
+WPS - WORKPLACE SOLUTIONS GMBH,wps workplace solutions gmbh,DE,DACH,18612265.07,2475847.92,2024,165,6201,Private,False,,Orbis,raw
+SEMLEX EUROPE,semlex europe,BE,Benelux,18605345.0,2258966.0,2024,37,4690,Private,False,,Orbis,raw
+EFOR BELGIUM,efor belgium,BE,Benelux,18490337.0,2653112.0,2024,133,6202,Private,False,,Orbis,raw
+NCA,nca,BE,Benelux,18266345.0,2011523.0,2024,21,4329,Private,False,,Orbis,raw
+CROWNPEAK TECHNOLOGY GMBH,crownpeak technology gmbh,DE,DACH,18237086.56,2316964.94,2024,73,6201,Private,False,,Orbis,raw
+IMAGE RECOGNITION INTEGRATED SYSTEMS,image recognition integrated systems,BE,Benelux,18230060.0,2520294.0,2024,55,6201,Private,False,,Orbis,raw
+ONIRYX,oniryx,BE,Benelux,18164042.0,2065753.0000000002,2024,55,6201,Private,False,,Orbis,raw
+HYPOTHEEK.WINKEL.,hypotheek winkel,BE,Benelux,18118715.0,1855914.0,2024,20,6201,Private,False,,Orbis,raw
+NAVIS GERMANY GMBH,navis germany gmbh,DE,DACH,18102519.48,8547610.26,2024,70,6201,Private,False,,Orbis,raw
+OTRIS SOFTWARE AG,otris software ag,DE,DACH,18098007.19,5371892.649999999,2024,115,6201,Private,False,,Orbis,raw
+DEDALUS HEALTHCARE,dedalus healthcare,BE,Benelux,17010557.0,1386198.0,2023,94,6209,Private,False,,Orbis,raw
+EXACT SOFTWARE BELGIUM,exact software belgium,BE,Benelux,18071096.0,6901279.0,2024,38,6201,Private,False,,Orbis,raw
+SAGE,sage,BE,Benelux,15945762.0,7152200.0,2025,18,4762,Private,False,,Orbis,raw
+NAYAN,nayan,BE,Benelux,17970526.0,1766212.0,2024,70,6202,Private,False,,Orbis,raw
+NOMIOS BELGIUM,nomios belgium,BE,Benelux,17949152.0,2006422.0,2024,18,6202,Private,False,,Orbis,raw
+WESTERNACHER SOLUTIONS GMBH,westernacher solutions gmbh,DE,DACH,17922491.0,1890441.18,2024,147,6201,Private,False,,Orbis,raw
+LEOGISTICS GMBH,leogistics gmbh,DE,DACH,17780869.58,2370016.28,2024,104,6202,Private,False,,Orbis,raw
+TRUECOMMERCE DENMARK APS,truecommerce denmark aps,DK,Denmark,17671651.517911,3907419.0153301302,2024,66,6209,Private,False,,Orbis,raw
+ICON INCAR GMBH,icon incar gmbh,DE,DACH,17657934.9,1898701.37,2024,103,6201,Private,False,,Orbis,raw
+BECKHOFF AUTOMATION,beckhoff automation,BE,Benelux,17573832.0,1239354.0,2024,30,6202,Private,False,,Orbis,raw
+DATA SHIFT,data shift,BE,Benelux,16806345.0,3734548.0,2024,85,6202,Private,False,,Orbis,raw
+OCLC GMBH,oclc gmbh,DE,DACH,15491547.42,1835608.17,2025,113,6201,Private,False,,Orbis,raw
+XPLUSCONSULTANTS,xplusconsultants,BE,Benelux,17431373.0,1337134.0,2024,5,4651,Private,False,,Orbis,raw
+FLEXSO FOR PEOPLE,flexso for people,BE,Benelux,17383076.0,1645435.0,2024,58,6202,Private,False,,Orbis,raw
+ITELIO GMBH,itelio gmbh,DE,DACH,17356366.94,2325936.9499999997,2024,88,6201,Private,False,,Orbis,raw
+C-TRACE GMBH,c trace gmbh,DE,DACH,17303970.09,4085865.47,2024,115,6201,Private,False,,Orbis,raw
+APPS PEOPLE HOLDING A/S,apps people holding a s,DK,Denmark,17241102.347198498,1480172.7984682801,2024,9,6201,Private,False,,Orbis,raw
+F5 NETWORKS GMBH,f5 networks gmbh,DE,DACH,15968159.36,1331923.36,2024,56,6201,Private,False,,Orbis,raw
+APPSYS ICT GROUP,appsys ict group,BE,Benelux,15253401.0,1067256.0,2025,53,6202,Private,False,,Orbis,raw
+XENIUM AKTIENGESELLSCHAFT,xenium aktiengesellschaft,DE,DACH,17161522.459,1278176.05,2024,64,6202,Private,False,,Orbis,raw
+LUFTHANSA AVIATION TRAINING OPERATIONS GERMANY GMBH,lufthansa aviation training operations germany gmbh,DE,DACH,17022270.34,1346187.89,2024,119,6201,Private,False,,Orbis,raw
+ESRI BELUX,esri belux,BE,Benelux,17018635.0,2243692.0,2024,43,4651,Private,False,,Orbis,raw
+CFM GMBH,cfm gmbh,DE,DACH,14974324.21,2685318.87,2025,50,6201,Private,False,,Orbis,raw
+IS SOFTWARE GMBH,is software gmbh,DE,DACH,16903305.1,1376366.76,2024,118,6201,Private,False,,Orbis,raw
+LIGHTSPEED POS BELGIUM,lightspeed pos belgium,BE,Benelux,16227521.0,2894526.0,2024,76,4651,Private,False,,Orbis,raw
+ESCRIBA AG,escriba ag,DE,DACH,16877487.66,3618258.15,2024,46,6201,Private,False,,Orbis,raw
+HANSECOM PUBLIC TRANSPORT TICKETING SOLUTIONS GMBH,hansecom public transport ticketing solutions gmbh,DE,DACH,15850408.84,1902718.88,2023,85,6201,Private,False,,Orbis,raw
+ENFOCUS,enfocus,BE,Benelux,16740830.999999998,5880244.0,2024,35,6201,Private,False,,Orbis,raw
+IRON MOUNTAIN (DEUTSCHLAND) DATA CENTRE GMBH,iron mountain deutschland data centre gmbh,DE,DACH,16676343.970000003,6975956.78,2024,n.v.,6201,Private,False,,Orbis,raw
+BLUJAY SOLUTIONS GMBH,blujay solutions gmbh,DE,DACH,15970542.020000001,2873896.7800000003,2023,47,6202,Private,False,,Orbis,raw
+SWARCO BELGIUM,swarco belgium,BE,Benelux,16534928.0,1761004.0,2024,30,6110,Private,False,,Orbis,raw
+INTECH S.A.,intech s a,LU,Benelux,14612182.0,1327775.0,2025,n.v.,6201,Private,False,,Orbis,raw
+REGIODATA GMBH,regiodata gmbh,DE,DACH,16387729.159999998,2153856.9200000004,2024,140,6209,Private,False,,Orbis,raw
+FLEXSO BRUSSELS,flexso brussels,BE,Benelux,16355198.0,1141945.0,2024,39,6202,Private,False,,Orbis,raw
+CHIPSOFT BELGIE,chipsoft belgie,BE,Benelux,16228746.0,1248385.0,2024,106,6202,Private,False,,Orbis,raw
+VOLUE GERMANY GMBH,volue germany gmbh,DE,DACH,15060081.120000001,1820353.99,2023,64,6201,Private,False,,Orbis,raw
+EURO-LOG AG,euro log ag,DE,DACH,15782492.24,1872521.64,2024,125,6201,Private,False,,Orbis,raw
+COSINEX GMBH,cosinex gmbh,DE,DACH,15748740.879999999,2205818.3600000003,2024,88,6201,Private,False,,Orbis,raw
+STEP AHEAD GMBH,step ahead gmbh,DE,DACH,15673415.950000001,1243606.63,2024,108,6209,Private,False,,Orbis,raw
+BIRKLE IT AG,birkle it ag,DE,DACH,14703929.81,3338235.9299999997,2023,64,6201,Private,False,,Orbis,raw
+STOCARD GMBH,stocard gmbh,DE,DACH,15607573.65,4983359.46,2024,37,6201,Private,False,,Orbis,raw
+XPLM SOLUTION GMBH,xplm solution gmbh,DE,DACH,15192497.98,1531563.01,2022,14,6201,Private,False,,Orbis,raw
+CERM,cerm,BE,Benelux,14965095.0,2662149.0,2024,46,4666,Private,False,,Orbis,raw
+CIMT OBJECTS AG,cimt objects ag,DE,DACH,15488881.11,2021150.51,2024,106,6202,Private,False,,Orbis,raw
+ITC INFOTECH GMBH,itc infotech gmbh,DE,DACH,14691249.78,1116721.0,2024,83,6201,Private,False,,Orbis,raw
+DEVOTEAM G CLOUD BELUX,devoteam g cloud belux,BE,Benelux,15245120.0,3919843.0,2024,57,6201,Private,False,,Orbis,raw
+JCD A/S,jcd a s,DK,Denmark,13415665.2727741,1477173.96390186,2025,77,6201,Private,False,,Orbis,raw
+INTERSOFT ELECTRONICS,intersoft electronics,BE,Benelux,15132035.0,1483885.0,2024,69,4664,Private,False,,Orbis,raw
+TET T GMBH,tet t gmbh,DE,DACH,13320227.22,1893109.06,2025,50,6201,Private,False,,Orbis,raw
+YAVICA APS,yavica aps,DK,Denmark,14890937.2338257,4300505.69168956,2024,48,6202,Private,False,,Orbis,raw
+BRAIN,brain,BE,Benelux,14668986.0,2352088.0,2024,33,6202,Private,False,,Orbis,raw
+NEXMART GMBH & CO. KG,nexmart gmbh co kg,DE,DACH,14532233.399999999,3092594.8600000003,2024,96,6209,Private,False,,Orbis,raw
+B+S BANKSYSTEME AG,b s banksysteme ag,DE,DACH,12765000.0,2912000.0,2025,80,6209,Public,False,,Orbis,raw
+ETC - ENTERPRISE TRAINING CENTER GMBH,etc enterprise training center gmbh,AT,DACH,14385651.95,1143394.53,2024,62,6209,Private,False,,Orbis,raw
+IT1 GROUP,it1 group,BE,Benelux,14383766.0,1270812.0,2024,38,4741,Private,False,,Orbis,raw
+MSC SOFTWARE BELGIUM,msc software belgium,BE,Benelux,14328297.0,4755059.0,2024,46,6202,Private,False,,Orbis,raw
+DARTS-IP,darts ip,BE,Benelux,14169159.0,6139613.0,2024,5,6209,Private,False,,Orbis,raw
+CAQ AG FACTORY SYSTEMS,caq ag factory systems,DE,DACH,14103672.24,4059286.66,2024,92,6202,Private,False,,Orbis,raw
+CANCOM PHYSICAL INFRASTRUCTURE GMBH,cancom physical infrastructure gmbh,DE,DACH,14065554.85,1033137.9400000001,2024,27,6201,Private,False,,Orbis,raw
+PIKETEC GMBH,piketec gmbh,DE,DACH,12571682.6,7068890.140000001,2025,51,6201,Private,False,,Orbis,raw
+STATE STREET GLOBAL EXCHANGE (EUROPE) GMBH,state street global exchange europe gmbh,DE,DACH,13944840.13,4007728.63,2024,38,6201,Private,False,,Orbis,raw
+GEOMAGIC GMBH,geomagic gmbh,DE,DACH,13934276.95,2973459.5100000002,2024,121,6201,Private,False,,Orbis,raw
+RELATIONSHIP MANAGEMENT CONSULTANTS,relationship management consultants,BE,Benelux,13904391.0,1366369.0,2024,9,6202,Private,False,,Orbis,raw
+PENNEO A/S,penneo a s,DK,Denmark,13765984.345842,1269951.6071344698,2024,90,6201,Private,False,,Orbis,raw
+JARVISS,jarviss,BE,Benelux,13733119.0,1102543.0,2024,14,6202,Private,False,,Orbis,raw
+MINDBREEZE GMBH,mindbreeze gmbh,AT,DACH,13150938.98,4049397.68,2024,51,6201,Private,False,,Orbis,raw
+UXV TECHNOLOGIES APS,uxv technologies aps,DK,Denmark,13633787.5582148,1386786.07693345,2024,55,6202,Private,False,,Orbis,raw
+SEQUOIA BUSINESS COMMUNITY,sequoia business community,BE,Benelux,13562957.0,1320377.0,2024,1,6202,Private,False,,Orbis,raw
+FLEXSO DIGITAL,flexso digital,BE,Benelux,13511821.0,2365582.0,2024,64,6202,Private,False,,Orbis,raw
+EMPOWER GMBH,empower gmbh,DE,DACH,13505976.64,2603832.4299999997,2024,117,6201,Private,False,,Orbis,raw
+VIDEO GAMES EUROPE,video games europe,BE,Benelux,12681853.0,1449110.0,2023,7,6202,Private,False,,Orbis,raw
+CONNECTIFY,connectify,BE,Benelux,13478525.0,2109393.0,2024,36,4321,Private,False,,Orbis,raw
+DOMO ICT,domo ict,BE,Benelux,13170987.0,5778303.0,2024,10,6201,Private,False,,Orbis,raw
+PEOPLEWARE GMBH,peopleware gmbh,DE,DACH,13153200.0,1257215.0,2024,83,6201,Private,False,,Orbis,raw
+CENTRESOFT GMBH,centresoft gmbh,DE,DACH,13113635.82,1965050.45,2024,29,6201,Private,False,,Orbis,raw
+GEO SOLUTIONS,geo solutions,BE,Benelux,12952287.0,1108811.0,2024,83,6202,Private,False,,Orbis,raw
+ENGAGOR,engagor,BE,Benelux,12866360.0,6260982.0,2024,7,6201,Private,False,,Orbis,raw
+PREO SOFTWARE AG,preo software ag,DE,DACH,12269349.790000001,1070708.9000000001,2024,27,6201,Private,False,,Orbis,raw
+FORMPIPE SOFTWARE A/S,formpipe software a s,DK,Denmark,12842493.4328865,1274129.0795263601,2024,79,6201,Private,False,,Orbis,raw
+KNX ASSOCIATION,knx association,BE,Benelux,12643117.0,1307349.0,2024,15,6209,Private,False,,Orbis,raw
+HEADMIND PARTNERS BELGIUM,headmind partners belgium,BE,Benelux,12636766.0,1514930.0,2024,90,6202,Private,False,,Orbis,raw
+BATTLEKART EUROPE,battlekart europe,BE,Benelux,12473482.0,2943240.0,2024,22,6201,Private,False,,Orbis,raw
+ORGANI,organi,BE,Benelux,12445045.0,1320963.0,2024,83,6201,Private,False,,Orbis,raw
+ABERDEEN SERVICES,aberdeen services,BE,Benelux,12312100.0,1039637.9999999999,2024,4,6202,Private,False,,Orbis,raw
+SMAPONE AG,smapone ag,DE,DACH,12246240.85,1081550.4100000001,2024,101,6209,Private,False,,Orbis,raw
+FORCEA,forcea,BE,Benelux,12057665.0,1728721.0,2024,45,6201,Private,False,,Orbis,raw
+RENTA SOLUTIONS,renta solutions,BE,Benelux,12010142.0,3701006.0,2024,20,6209,Private,False,,Orbis,raw
+LEXISNEXIS GMBH,lexisnexis gmbh,DE,DACH,11692492.21,4445753.5600000005,2022,15,6201,Private,False,,Orbis,raw
+EPTURA BELGIUM,eptura belgium,BE,Benelux,11272717.0,1202050.0,2023,14,6202,Private,False,,Orbis,raw
+MERKATOR,merkator,BE,Benelux,11791021.0,1371934.0,2024,49,6202,Private,False,,Orbis,raw
+VISMA ACUBIZ A/S,visma acubiz a s,DK,Denmark,10388883.5947256,3544816.17491894,2025,42,6201,Private,False,,Orbis,raw
+HUBSPOT BELGIUM,hubspot belgium,BE,Benelux,11731909.0,4889370.0,2024,34,6209,Private,False,,Orbis,raw
+ISAM AG,isam ag,DE,DACH,11625034.879999999,2232937.16,2024,42,6201,Private,False,,Orbis,raw
+INFO SUPPORT,info support,BE,Benelux,10200415.0,1677726.0,2025,68,6201,Private,False,,Orbis,raw
+PRATO,prato,BE,Benelux,11497979.0,1349281.0,2024,67,4632,Private,False,,Orbis,raw
+IFACTO BUSINESS SOLUTIONS,ifacto business solutions,BE,Benelux,11457595.0,1181246.0,2024,38,6202,Private,False,,Orbis,raw
+NEOCX VERWALTUNGSGESELLSCHAFT MBH,neocx verwaltungsgesellschaft mbh,DE,DACH,10673138.81,1320981.49,2023,1,6201,Private,False,,Orbis,raw
+NET IT,net it,BE,Benelux,10018839.0,1561217.0,2025,47,4741,Private,False,,Orbis,raw
+THEO TECHNOLOGIES,theo technologies,BE,Benelux,10451733.0,4330861.0,2024,35,6201,Private,False,,Orbis,raw
+QUALIFIO,qualifio,BE,Benelux,11257372.0,1943057.0,2024,55,6201,Private,False,,Orbis,raw
+DHV E-NET GMBH,dhv e net gmbh,DE,DACH,11243282.28,1013291.54,2024,51,6202,Private,False,,Orbis,raw
+THE CONCEPT GROUP,the concept group,BE,Benelux,11079358.0,1017604.0,2024,52,4741,Private,False,,Orbis,raw
+GBS EUROPA GMBH,gbs europa gmbh,DE,DACH,10877551.81,2973832.9,2024,61,6201,Private,False,,Orbis,raw
+NORRIQ FINANCIAL SERVICES,norriq financial services,BE,Benelux,10853051.0,1073859.0,2024,74,6201,Private,False,,Orbis,raw
+SCIA,scia,BE,Benelux,10844446.0,2323413.0,2024,24,6201,Private,False,,Orbis,raw
+XPOWER,xpower,BE,Benelux,10783343.0,1876604.0,2024,45,4650,Private,False,,Orbis,raw
+DATASENSE,datasense,BE,Benelux,10767943.0,1493316.0,2024,40,6202,Private,False,,Orbis,raw
+SKYFORCE CYBER SECURITY,skyforce cyber security,BE,Benelux,10599280.0,3406070.0,2024,59,4519,Private,False,,Orbis,raw
+ZH-TECHNOLOGIES REGELUNGS- UND AUTOMATISIERUNGSTECHNIK GMBH,zh technologies regelungs und automatisierungstechnik gmbh,AT,DACH,10415393.22,2210341.77,2024,60,6201,Private,False,,Orbis,raw
+VERMEG BELGIUM,vermeg belgium,BE,Benelux,10362596.0,2819013.0,2024,6,6202,Private,False,,Orbis,raw
+INFORTEL,infortel,BE,Benelux,10108739.0,2069610.0000000002,2024,12,6201,Private,False,,Orbis,raw
+XPLORE,xplore,BE,Benelux,10102632.0,1164001.0,2024,25,6201,Private,False,,Orbis,raw
+TALENTSCONNECT AG,talentsconnect ag,DE,DACH,10040975.75,1567069.79,2024,71,6201,Private,False,,Orbis,raw
+NEOCX GMBH,neocx gmbh,DE,DACH,9417051.41,1306293.3900000001,2023,79,6201,Private,False,,Orbis,raw
+CALEO CONSULTING GMBH - REPRAESENTANZ WIEN ZWEIGNIEDERLASSUNG OESTERREICH,caleo consulting gmbh repraesentanz wien zweigniederlassung oesterreich,AT,DACH,9226631.87,1772510.7,2024,n.v.,6209,Private,False,,Orbis,raw
+BOC PRODUCTS & SERVICES AG,boc products services ag,AT,DACH,9932913.88,1503354.0599999998,2024,n.v.,6209,Private,False,,Orbis,raw
+PROMATIC - W,promatic w,BE,Benelux,9768120.0,1146568.0,2024,41,6201,Private,False,,Orbis,raw
+VERVE GROUP SERVICES GMBH,verve group services gmbh,DE,DACH,9103013.0,2502841.0,2023,n.v.,6201,Private,False,,Orbis,raw
+ONEVISION SOFTWARE AG,onevision software ag,DE,DACH,9537353.34,2164651.269,2024,52,6201,Private,False,,Orbis,raw
+INTOPIX,intopix,BE,Benelux,8436136.0,2891108.0,2025,35,2611,Private,False,,Orbis,raw
+123ERFASST.DE GMBH,123erfasst de gmbh,DE,DACH,9478613.87,4919555.680000001,2024,29,6201,Private,False,,Orbis,raw
+IGEFI GROUP S. A R.L.,igefi group s a r l,LU,Benelux,9467386.0,1970148.0,2024,n.v.,6201,Private,False,,Orbis,raw
+INFRONT,infront,BE,Benelux,9428252.0,1662420.0,2024,22,6201,Private,False,,Orbis,raw
+G.I.M. - GEOGRAPHIC INFORMATION MANAGEMENT,g i m geographic information management,BE,Benelux,9338766.0,2456535.0,2024,40,4646,Private,False,,Orbis,raw
+CARDIS REYNOLDS GMBH,cardis reynolds gmbh,DE,DACH,9323085.23,2049096.29,2024,67,6201,Private,False,,Orbis,raw
+MAILSTORE SOFTWARE GMBH,mailstore software gmbh,DE,DACH,8947837.040000001,6315879.0600000005,2024,44,6209,Private,False,,Orbis,raw
+IZIKO,iziko,BE,Benelux,9167369.0,1407037.0,2024,35,6201,Private,False,,Orbis,raw
+OPENS,opens,BE,Benelux,9147297.0,2633772.0,2024,26,4740,Private,False,,Orbis,raw
+PROFACTS,profacts,BE,Benelux,8995711.0,1330331.0,2024,34,6202,Private,False,,Orbis,raw
+NEOXAM INTERNATIONAL S.AR.I.,neoxam international s ar i,LU,Benelux,8928121.0,3033186.0,2024,n.v.,6209,Private,False,,Orbis,raw
+MEGASPACE INTERNET SERVICES GMBH,megaspace internet services gmbh,DE,DACH,8451108.86,4376203.17,2024,4,6201,Private,False,,Orbis,raw
+NHC A/S,nhc a s,DK,Denmark,8615699.9153377,1188962.54560139,2024,38,6209,Private,False,,Orbis,raw
+ELISION,elision,BE,Benelux,8456049.0,1833779.0,2024,36,6202,Private,False,,Orbis,raw
+CAD-PLAN GMBH,cad plan gmbh,DE,DACH,8402703.149999999,1105701.8290000001,2024,2,6201,Private,False,,Orbis,raw
+TOPTECH SYSTEMS,toptech systems,BE,Benelux,8365213.0,1243037.0,2024,17,6201,Private,False,,Orbis,raw
+SPATIAL INTELLIGENCE GENUINE & GENERIC IT SOLUTIONS,spatial intelligence genuine generic it solutions,BE,Benelux,8352290.999999999,1168852.0,2024,32,6201,Private,False,,Orbis,raw
+BETTERSPACE GMBH,betterspace gmbh,DE,DACH,7843941.0600000005,1094607.62,2023,48,6201,Private,False,,Orbis,raw
+JWE S.A R.L.,jwe s a r l,LU,Benelux,7997252.0,1729557.0,2024,n.v.,6201,Private,False,,Orbis,raw
+SUIVO,suivo,BE,Benelux,7899907.0,1005872.0,2024,32,6209,Private,False,,Orbis,raw
+PEOPLEWARE,peopleware,BE,Benelux,7758613.0,1010735.0,2024,50,6201,Private,False,,Orbis,raw
+ASTENA,astena,BE,Benelux,7582662.0,1199684.0,2024,34,6201,Private,False,,Orbis,raw
+GRUEN RAW GMBH,gruen raw gmbh,DE,DACH,7058033.71,1758645.24,2023,54,6201,Private,False,,Orbis,raw
+QUADIENT DOPIX GERMANY GMBH,quadient dopix germany gmbh,DE,DACH,7387337.71,1291772.08,2024,2,6209,Private,False,,Orbis,raw
+CLAERHOUT COMPUTER ENGINEERING,claerhout computer engineering,BE,Benelux,7289083.0,1130753.0,2024,43,4666,Private,False,,Orbis,raw
+IP TRADE,ip trade,BE,Benelux,6861738.0,2790437.0,2024,23,2630,Private,False,,Orbis,raw
+PYRAMID,pyramid,BE,Benelux,7078586.0,1158322.0,2024,12,6201,Private,False,,Orbis,raw
+MINDCORE P/S,mindcore p s,DK,Denmark,7037828.165768781,1152443.3514658299,2024,17,6202,Private,False,,Orbis,raw
+BLACKROCK ALADDIN LUXEMBOURG S.A R.L.,blackrock aladdin luxembourg s a r l,LU,Benelux,6775000.0,1236000.0,2022,26,6201,Private,False,,Orbis,raw
+ORBIS PEOPLE GMBH,orbis people gmbh,DE,DACH,6697731.28,1189599.02,2024,35,6201,Private,False,,Orbis,raw
+B.REKENCENTRA,b rekencentra,BE,Benelux,6399752.0,1094046.0,2024,21,6201,Private,False,,Orbis,raw
+ACAPELA GROUP BABEL TECHNOLOGIES,acapela group babel technologies,BE,Benelux,6324777.0,2079043.9999999998,2024,29,6209,Private,False,,Orbis,raw
+GANG OF GEEKS,gang of geeks,BE,Benelux,5795093.0,2664676.0,2024,18,6202,Private,False,,Orbis,raw
+HALLERUPNET APS,hallerupnet aps,DK,Denmark,6062860.0123712905,1977022.49875529,2024,40,6201,Private,False,,Orbis,raw
+SYNERGLASS SOFT,synerglass soft,BE,Benelux,6003747.0,1587794.0,2024,28,4650,Private,False,,Orbis,raw
+EUROPEAN GAS SHIPPING SERVICES & INFORMATION SYSTEMS,european gas shipping services information systems,BE,Benelux,5068026.0,1126199.0,2025,16,6201,Private,False,,Orbis,raw
+LIVO TECHNOLOGIES GMBH,livo technologies gmbh,DE,DACH,5500406.699999999,1867563.3399999999,2022,39,6201,Private,False,,Orbis,raw
+ELANCE SOLUTIONS,elance solutions,BE,Benelux,5205923.0,4845822.0,2024,1,5829,Private,False,,Orbis,raw
+ZERON,zeron,BE,Benelux,5002058.0,2377860.0,2024,10,6201,Private,False,,Orbis,raw

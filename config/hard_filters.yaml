@@ -1,0 +1,34 @@
+# Hard-filter thresholds for first-pass screening.
+# Each dimension produces: PASS | MARGIN_FLAG | FAIL
+# A company is MARGIN_FLAG overall if it passes all dimensions or fails only
+# within a margin band on at most one dimension.
+
+region:
+  target:   ["DACH", "Benelux", "Denmark"]
+  adjacent: ["Adjacent"]          # adjacent → MARGIN_FLAG, not FAIL
+  # Everything not in target or adjacent → FAIL
+
+revenue_eur:
+  min:        5_000_000
+  max:       100_000_000
+  margin_pct: 0.10               # ±10 % of min/max → MARGIN_FLAG instead of FAIL
+
+ebitda_eur:
+  min:        1_000_000
+  max:       15_000_000
+  margin_pct: 0.20               # ±20 % of min/max → MARGIN_FLAG
+
+business_model:
+  pass_tags:   ["project_fees", "retainer", "saas", "managed_services"]
+  margin_tags: ["mixed", "partial_recurring", "subscription"]
+  # Anything else (pure product, hardware, staffing) → FAIL
+  # If business_model_tags is missing → MARGIN_FLAG (insufficient data)
+
+# Overall status derivation:
+# - All dimensions PASS                            → hard_filter_pass
+# - Any dimension FAIL (outside margin)            → hard_filter_fail
+# - At least one MARGIN_FLAG, none FAIL            → hard_filter_margin
+#
+# Note: business_model_tags are not available from Orbis exports; the
+# hf_business_model dimension defaults to MARGIN_FLAG and is treated as
+# a soft signal only. Region, revenue, and EBITDA are the binding gates.
